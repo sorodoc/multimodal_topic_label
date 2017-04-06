@@ -1,0 +1,4332 @@
+0.0	cloud computing	2.33333333333
+0.0	hypervisor	1.2
+0.0	microsoft exchange server	2.33333333333
+0.0	vmware	2.0
+0.0	windows 2000	1.66666666667
+0.0	postgresql	0.875
+0.0	application server	1.4
+0.0	sharepoint	1.55555555556
+0.0	web application	2.125
+0.0	netware	1.7
+0.0	sun microsystems	1.625
+0.0	oracle database	1.16666666667
+0.0	virtualization	2.42857142857
+0.0	windows server 2008	1.2
+0.0	windows server 2003	1.33333333333
+0.0	hyper-v	1.5
+0.0	microsoft sql server	1.14285714286
+0.0	desktop virtualization	1.42857142857
+0.0	operating system	2.11111111111
+1.0	hillary clinton	1.6
+1.0	mitt romney	0.25
+1.0	john kerry	0.833333333333
+1.0	walter mondale	1.16666666667
+1.0	conservative democrat	2.0
+1.0	joe biden	1.33333333333
+1.0	barack obama	1.5
+1.0	joe lieberman	0.875
+1.0	john mccain	1.66666666667
+1.0	howard dean	0.833333333333
+1.0	george w. bush	1.125
+1.0	ted cruz	1.0
+1.0	george h. w. bush	0.833333333333
+1.0	democratic party (united states)	2.75
+1.0	presidential nominee	2.83333333333
+1.0	republican party (united states)	1.4
+1.0	al gore	0.5
+1.0	bob dole	0.857142857143
+1.0	bill clinton	2.22222222222
+2.0	windows 10	2.16666666667
+2.0	windows mobile	1.25
+2.0	windows 8.1	2.14285714286
+2.0	application programming interface	1.28571428571
+2.0	windows xp	1.875
+2.0	windows server 2008	1.16666666667
+2.0	operating system	2.1
+2.0	windows 8	2.6
+2.0	internet explorer	2.0
+2.0	windows server 2003	2.16666666667
+2.0	windows 2000	2.0
+2.0	linux	1.57142857143
+2.0	microsoft windows	1.8
+2.0	os x	1.14285714286
+2.0	windows 7	2.0
+2.0	windows vista	1.8
+2.0	microsoft office	2.0
+2.0	microsoft visual studio	2.0
+2.0	web browser	1.6
+3.0	floppy disk	1.16666666667
+3.0	expansion card	1.0
+3.0	chipset	1.0
+3.0	pc card	2.0
+3.0	operating system	2.4
+3.0	flash memory	2.2
+3.0	bios	0.857142857143
+3.0	solid-state drive	1.625
+3.0	motherboard	2.28571428571
+3.0	hard disk drive	1.75
+3.0	desktop computer	2.57142857143
+3.0	personal computer	2.0
+3.0	usb flash drive	1.6
+3.0	video card	1.8
+3.0	hdmi	1.16666666667
+3.0	microprocessor	2.25
+3.0	microcontroller	1.4
+3.0	compactflash	1.25
+3.0	usb	2.14285714286
+4.0	wii u	1.5
+4.0	xbox one	2.14285714286
+4.0	dreamcast	1.5
+4.0	gamecube	1.85714285714
+4.0	xbox 360	2.66666666667
+4.0	playstation 2	0.75
+4.0	playstation vita	1.33333333333
+4.0	playstation portable	1.55555555556
+4.0	playstation 4	1.66666666667
+4.0	virtual console	2.0
+4.0	playstation	1.16666666667
+4.0	playstation (console)	1.83333333333
+4.0	nintendo 3ds	1.875
+4.0	nintendo ds	1.66666666667
+4.0	nintendo 64	1.66666666667
+4.0	wii	2.6
+4.0	xbox (console)	2.0
+4.0	video game console	2.57142857143
+4.0	playstation 3	1.8
+5.0	independent politician	1.85714285714
+5.0	state senator	1.75
+5.0	election	2.14285714286
+5.0	majority leader	1.75
+5.0	ballot	1.75
+5.0	congressional district	1.5
+5.0	electoral college	2.4
+5.0	minor party	1.375
+5.0	electoral college (united states)	1.57142857143
+5.0	faithless elector	1.33333333333
+5.0	by-election	2.25
+5.0	incumbent	0.666666666667
+5.0	conservative democrat	1.33333333333
+5.0	general election	2.42857142857
+5.0	primary election	2.0
+5.0	write-in candidate	1.71428571429
+5.0	democratic party (united states)	1.8
+5.0	independent democrat	1.2
+5.0	running mate	1.88888888889
+6.0	hospital	2.375
+6.0	pain management	1.28571428571
+6.0	patient	2.0
+6.0	surgery	1.33333333333
+6.0	primary care	1.2
+6.0	intensive care unit	1.85714285714
+6.0	rheumatology	1.25
+6.0	mental health	1.83333333333
+6.0	pathology	1.4
+6.0	health	2.125
+6.0	psychiatry	1.44444444444
+6.0	medicine	3.0
+6.0	neurology	2.0
+6.0	oncology	2.57142857143
+6.0	tuberculosis	1.4
+6.0	cancer	2.28571428571
+6.0	geriatrics	0.666666666667
+6.0	palliative care	0.8
+6.0	nephrology	1.5
+7.0	sauce	1.55555555556
+7.0	tomato sauce	1.85714285714
+7.0	soup	1.57142857143
+7.0	salad	1.0
+7.0	offal	1.14285714286
+7.0	bread	1.3
+7.0	broth	1.6
+7.0	cooking	2.66666666667
+7.0	yogurt	0.8
+7.0	steak	1.25
+7.0	pasta	2.0
+7.0	gravy	1.625
+7.0	sausage	1.57142857143
+7.0	barbecue sauce	2.5
+7.0	condiment	1.28571428571
+7.0	dessert	1.16666666667
+7.0	mayonnaise	1.5
+7.0	french fries	0.5
+7.0	potato	0.8
+8.0	sanctification	1.5
+8.0	son of god	2.14285714286
+8.0	christ	1.83333333333
+8.0	eucharist	1.25
+8.0	salvation (christianity)	1.625
+8.0	mary (mother of jesus)	1.88888888889
+8.0	holy spirit (christian denominational variations)	1.66666666667
+8.0	infant baptism	1.5
+8.0	catholicism	2.16666666667
+8.0	holy spirit (christianity)	2.0
+8.0	john the baptist	1.28571428571
+8.0	baptism	2.6
+8.0	faith	2.57142857143
+8.0	christian theology	2.42857142857
+8.0	sacrament	2.0
+8.0	jesus	1.83333333333
+8.0	god the father	2.0
+8.0	christian church	2.2
+8.0	christianity	2.625
+9.0	olympic gold	2.5
+9.0	summer olympic games	2.28571428571
+9.0	winter olympic games	2.33333333333
+9.0	gold medal	1.85714285714
+9.0	2008 summer olympics	2.5
+9.0	1996 summer olympics	1.88888888889
+9.0	commonwealth games	1.66666666667
+9.0	olympic sports	2.42857142857
+9.0	paralympic games	1.5
+9.0	asian games	1.5
+9.0	chinese taipei	1.6
+9.0	demonstration sport	0.666666666667
+9.0	2000 summer olympics	1.33333333333
+9.0	silver medal	1.71428571429
+9.0	2004 summer olympics	2.5
+9.0	olympic games	2.5
+9.0	olympic medal	1.4
+9.0	1948 summer olympics	1.33333333333
+9.0	2012 summer olympics	2.33333333333
+10.0	joe biden	1.0
+10.0	john mccain	1.85714285714
+10.0	michael dukakis	0.833333333333
+10.0	bill clinton	0.75
+10.0	democratic senatorial campaign committee	1.375
+10.0	running mate	1.42857142857
+10.0	democratic leadership council	1.0
+10.0	presidential nominee	0.6
+10.0	democratic party (united states)	1.22222222222
+10.0	hillary clinton	1.0
+10.0	joe lieberman	1.16666666667
+10.0	state senator	1.42857142857
+10.0	howard dean	0.8
+10.0	walter mondale	0.4
+10.0	conservative democrat	2.4
+10.0	mitt romney	1.25
+10.0	john kerry	1.85714285714
+10.0	state treasurer	0.666666666667
+10.0	sarah palin	2.71428571429
+11.0	shades of green	1.2
+11.0	blue	2.2
+11.0	white	1.5
+11.0	black	2.0
+11.0	purple	0.8
+11.0	green	1.6
+11.0	yellow	1.42857142857
+11.0	bright red	0.857142857143
+11.0	color	1.85714285714
+11.0	grey	1.33333333333
+11.0	brown	0.857142857143
+11.0	pink	0.888888888889
+11.0	dark purple	0.625
+11.0	violet (color)	1.14285714286
+11.0	beige	0.8
+11.0	red	1.75
+11.0	blue-green	0.75
+11.0	light blue	1.8
+11.0	cream (colour)	1.8
+12.0	investment banking	2.14285714286
+12.0	subprime mortgage crisis	2.125
+12.0	deposit insurance	1.7
+12.0	debt crisis	1.0
+12.0	citigroup	1.0
+12.0	great recession	2.2
+12.0	central bank	1.875
+12.0	capital market	2.25
+12.0	financial crisis	2.5
+12.0	bank of america	1.25
+12.0	liquidity crisis	1.75
+12.0	troubled asset relief program	1.11111111111
+12.0	refinancing	2.44444444444
+12.0	goldman sachs	1.44444444444
+12.0	federal deposit insurance corporation	1.28571428571
+12.0	jpmorgan chase	1.14285714286
+12.0	government debt	1.5
+12.0	financial services	2.11111111111
+12.0	investment	1.875
+13.0	basal metabolic rate	1.33333333333
+13.0	weight loss	2.25
+13.0	meat	0.857142857143
+13.0	food energy	1.66666666667
+13.0	dietary fiber	1.875
+13.0	appetite	2.0
+13.0	weight management	2.42857142857
+13.0	dieting	2.8
+13.0	diet (nutrition)	2.28571428571
+13.0	obesity	2.16666666667
+13.0	glycemic index	1.1
+13.0	eating	2.14285714286
+13.0	healthy diet	1.8
+13.0	weight gain	1.83333333333
+13.0	high-protein diet	1.4
+13.0	nutrition	1.33333333333
+13.0	insulin resistance	1.5
+13.0	malnutrition	0.6
+13.0	saturated fat	2.0
+14.0	brake	1.25
+14.0	turbocharger	1.5
+14.0	landing gear	1.2
+14.0	power steering	1.5
+14.0	front-wheel drive	2.0
+14.0	supercharger	1.28571428571
+14.0	drive shaft	1.42857142857
+14.0	diesel engine	1.22222222222
+14.0	manual transmission	1.57142857143
+14.0	v8 engine	1.42857142857
+14.0	transaxle	0.833333333333
+14.0	air suspension	1.7
+14.0	engine	2.0
+14.0	automatic transmission	2.2
+14.0	drivetrain	1.375
+14.0	four-wheel drive	1.66666666667
+14.0	honda civic (ninth generation)	1.0
+14.0	axle	0.6
+14.0	steering wheel	1.6
+15.0	internet	2.6
+15.0	social media	1.83333333333
+15.0	web portal	2.14285714286
+15.0	google search	2.0
+15.0	mobile app	2.11111111111
+15.0	website	2.0
+15.0	web browser	2.4
+15.0	user-generated content	2.16666666667
+15.0	flickr	1.28571428571
+15.0	web content	1.83333333333
+15.0	social bookmarking	1.875
+15.0	home page	1.66666666667
+15.0	google analytics	2.33333333333
+15.0	gmail	1.75
+15.0	social networking service	2.0
+15.0	facebook	1.8
+15.0	adsense	2.16666666667
+15.0	yahoo!	1.66666666667
+15.0	web 2.0	1.5
+16.0	liquefied natural gas	1.83333333333
+16.0	biofuel	2.0
+16.0	petroleum	2.0
+16.0	diesel fuel	2.0
+16.0	alternative fuel	1.83333333333
+16.0	sustainable energy	1.75
+16.0	renewable energy	0.8
+16.0	energy development	2.14285714286
+16.0	carbon capture and storage	1.66666666667
+16.0	fossil fuel	2.0
+16.0	electricity generation	1.66666666667
+16.0	carbon dioxide	1.0
+16.0	cogeneration	1.14285714286
+16.0	natural gas	2.5
+16.0	enhanced oil recovery	1.375
+16.0	biomass	2.0
+16.0	oil sands	1.0
+16.0	combined cycle	1.5
+16.0	alternative energy	2.14285714286
+17.0	transcription factor	1.71428571429
+17.0	alternative splicing	0.5
+17.0	actin	1.14285714286
+17.0	apoptosis	1.8
+17.0	dna methylation	1.4
+17.0	signal transduction	0.875
+17.0	microrna	1.33333333333
+17.0	nf-κb	0.428571428571
+17.0	survivin	0.5
+17.0	long non-coding rna	1.42857142857
+17.0	gene product	1.66666666667
+17.0	telomerase	1.8
+17.0	dna repair	1.875
+17.0	mutation	1.71428571429
+17.0	beta-catenin	1.8
+17.0	cell growth	1.2
+17.0	gene expression	2.25
+17.0	carcinogenesis	1.66666666667
+17.0	p53	0.875
+18.0	ipad	1.83333333333
+18.0	mobile device	2.57142857143
+18.0	google talk	1.6
+18.0	skype	1.75
+18.0	gmail	1.16666666667
+18.0	windows mobile	1.7
+18.0	windows phone	1.0
+18.0	google voice	1.4
+18.0	windows phone 7	1.83333333333
+18.0	google play	1.66666666667
+18.0	mobile web	2.375
+18.0	mobile app	1.66666666667
+18.0	ipod touch	1.3
+18.0	android (operating system)	2.0
+18.0	ios	1.5
+18.0	iphone	1.75
+18.0	web browser	1.71428571429
+18.0	smartphone	2.625
+18.0	mobile phone	2.5
+19.0	third album	1.8
+19.0	rhythm section	1.66666666667
+19.0	guitar solo	1.85714285714
+19.0	funk	1.0
+19.0	lead vocalist	1.5
+19.0	rock music	2.44444444444
+19.0	the beat (american band)	1.4
+19.0	electric guitar	1.83333333333
+19.0	cover version	1.4
+19.0	the band	2.16666666667
+19.0	progressive rock	1.57142857143
+19.0	synthpop	1.42857142857
+19.0	some songs	1.25
+19.0	pop music	0.5
+19.0	one song	1.33333333333
+19.0	cover songs	1.42857142857
+19.0	album	2.5
+19.0	heavy metal music	1.875
+19.0	love songs (nat king cole album)	1.66666666667
+20.0	no-hitter	1.8
+20.0	andruw jones	1.44444444444
+20.0	world series	1.66666666667
+20.0	alfonso soriano	1.4
+20.0	scoring position	1.33333333333
+20.0	brooklyn dodgers (basketball)	1.75
+20.0	extra innings	1.4
+20.0	home run	1.8
+20.0	opening day	1.0
+20.0	starting lineup	1.66666666667
+20.0	playoffs	2.375
+20.0	shutout	0.833333333333
+20.0	championship	0.5
+20.0	new york yankees	1.5
+20.0	inning	1.5
+20.0	complete game	1.75
+20.0	perfect season	1.66666666667
+20.0	exhibition game	1.4
+20.0	all-star game	1.75
+21.0	marriage	1.28571428571
+21.0	his family	1.875
+21.0	son	1.0
+21.0	husband	1.6
+21.0	their son	0.8
+21.0	uncle	0.833333333333
+21.0	only child	1.14285714286
+21.0	sisters (tv series)	1.5
+21.0	sister	1.875
+21.0	father	2.0
+21.0	mother	1.8
+21.0	grandchild	1.14285714286
+21.0	cousin	1.44444444444
+21.0	youngest son	1.8
+21.0	wife	1.42857142857
+21.0	daughter	1.75
+21.0	the youngest son	1.28571428571
+21.0	aunt	1.66666666667
+21.0	brother	2.6
+22.0	criminal procedure	1.5
+22.0	state prosecutor	2.0
+22.0	attorney general	1.375
+22.0	supreme court	1.8
+22.0	prosecutor	1.5
+22.0	grand jury	2.4
+22.0	indictment	2.0
+22.0	federal court	1.16666666667
+22.0	jury trial	2.28571428571
+22.0	criminal law	2.44444444444
+22.0	acquittal	2.22222222222
+22.0	state court (united states)	2.0
+22.0	magistrate (england and wales)	1.5
+22.0	superior court	2.16666666667
+22.0	director of public prosecutions	1.71428571429
+22.0	judiciary	2.0
+22.0	private prosecution	1.6
+22.0	district court	2.14285714286
+22.0	contempt of court	1.83333333333
+23.0	footwear	2.1
+23.0	dress shirt	1.0
+23.0	headgear	0.25
+23.0	skirt	0.714285714286
+23.0	cargo pants	1.16666666667
+23.0	leggings	1.6
+23.0	cuff	0.666666666667
+23.0	shoe	2.16666666667
+23.0	webbing	0.777777777778
+23.0	underpants	0.555555555556
+23.0	jacket	1.16666666667
+23.0	backpack	1.33333333333
+23.0	the waist	0.666666666667
+23.0	waistcoat	1.33333333333
+23.0	shoulder strap	0.833333333333
+23.0	neoprene	1.14285714286
+23.0	waist	1.0
+23.0	strap	0.875
+23.0	trousers	1.0
+24.0	primary education	2.0
+24.0	undergraduate degree	1.8
+24.0	undergraduate education	1.71428571429
+24.0	school	2.66666666667
+24.0	vocational education	1.625
+24.0	secondary education	2.14285714286
+24.0	matriculation	2.25
+24.0	university	2.4
+24.0	high school	2.33333333333
+24.0	college	1.57142857143
+24.0	secondary school	1.4
+24.0	student	2.0
+24.0	graduate school	2.25
+24.0	graduate	2.0
+24.0	teacher	2.0
+24.0	pre-medical	0.714285714286
+24.0	education	2.66666666667
+24.0	curriculum	1.85714285714
+24.0	private school	2.2
+25.0	perfect season	1.625
+25.0	starting lineup	1.33333333333
+25.0	playoffs	1.85714285714
+25.0	player-coach	2.16666666667
+25.0	football team	2.6
+25.0	wild card (sports)	1.57142857143
+25.0	the first team	1.4
+25.0	one-game playoff	1.57142857143
+25.0	championship	2.28571428571
+25.0	basketball	1.33333333333
+25.0	head coach	1.66666666667
+25.0	professional football (gridiron)	2.28571428571
+25.0	penn state nittany lions	1.55555555556
+25.0	exhibition game	1.66666666667
+25.0	penalty shoot-out (association football)	1.8
+25.0	winning streak (sports)	1.42857142857
+25.0	all-star game	1.75
+25.0	playoff format	1.57142857143
+25.0	tournament	1.66666666667
+26.0	michael williams (defensive back)	1.22222222222
+26.0	san josé	0.714285714286
+26.0	francisco rodríguez (mexican pitcher)	0.285714285714
+26.0	monterrey	1.33333333333
+26.0	santiago	0.5
+26.0	san gabriel valley	0.75
+26.0	san juan	1.0
+26.0	san luis	0.333333333333
+26.0	los angeles salsa	1.2
+26.0	san diego	1.83333333333
+26.0	los angeles	1.5
+26.0	san martin (caltrain station)	0.5
+26.0	jose	0.333333333333
+26.0	andres	0.285714285714
+26.0	san francisco	1.0
+26.0	santa barbara	0.9
+26.0	san antonio	0.714285714286
+26.0	southern california	1.0
+26.0	san mateo (caltrain station)	0.5
+27.0	auction	1.0
+27.0	wholesale	1.8
+27.0	grocery store	2.11111111111
+27.0	mail order	1.57142857143
+27.0	coupon	2.11111111111
+27.0	sales	2.0
+27.0	buyer	2.14285714286
+27.0	private label	1.14285714286
+27.0	costco	2.0
+27.0	shopkeeper	1.8
+27.0	consignment	0.5
+27.0	supermarket	2.14285714286
+27.0	retail	1.85714285714
+27.0	the sale	1.375
+27.0	convenience store	1.25
+27.0	antique shop	1.42857142857
+27.0	variety store	1.57142857143
+27.0	purchasing	2.71428571429
+27.0	drugstore (album)	0.777777777778
+28.0	automation	1.22222222222
+28.0	manufacturing	1.0
+28.0	product lifecycle	0.666666666667
+28.0	marketing	2.25
+28.0	business development	2.25
+28.0	logistics	1.0
+28.0	industry	2.16666666667
+28.0	supply chain management	2.0
+28.0	supply chain	1.0
+28.0	value chain	1.5
+28.0	project management	2.14285714286
+28.0	technical support	2.14285714286
+28.0	business	2.16666666667
+28.0	technology company	2.0
+28.0	business model	2.66666666667
+28.0	customer relationship management	1.66666666667
+28.0	engineering	1.4
+28.0	risk management	2.0
+28.0	enterprise resource planning	1.33333333333
+29.0	close air support	1.71428571429
+29.0	cavalry	1.66666666667
+29.0	united states army	2.2
+29.0	military police	2.28571428571
+29.0	artillery	2.14285714286
+29.0	infantry	1.6
+29.0	third army (france)	1.6
+29.0	aerial warfare	2.2
+29.0	militia	1.57142857143
+29.0	navy	1.33333333333
+29.0	united states marine corps	2.0
+29.0	army	2.5
+29.0	military	1.83333333333
+29.0	infantry tactics	2.4
+29.0	special forces	1.75
+29.0	iraqi army	1.0
+29.0	commander	1.66666666667
+29.0	marines	2.0
+29.0	airborne forces	2.14285714286
+30.0	patio	0.6
+30.0	house	2.14285714286
+30.0	the living room	2.0
+30.0	bedroom	1.6
+30.0	living room	1.75
+30.0	hall	1.5
+30.0	dining room	2.0
+30.0	laundry room	1.16666666667
+30.0	courtyard	1.0
+30.0	fireplace	0.833333333333
+30.0	dormitory	1.5
+30.0	cafeteria	0.666666666667
+30.0	room	2.16666666667
+30.0	kitchen	2.0
+30.0	the kitchen	1.25
+30.0	parlour	1.11111111111
+30.0	closet	1.16666666667
+30.0	basement	1.16666666667
+30.0	bathroom	1.5
+31.0	value added	1.625
+31.0	percentage	1.66666666667
+31.0	tax revenue	2.2
+31.0	inflation	1.8
+31.0	consumer spending	2.0
+31.0	total revenue	1.83333333333
+31.0	purchasing power parity	1.33333333333
+31.0	market share	2.66666666667
+31.0	percentage point	2.25
+31.0	tax rate	2.5
+31.0	rate of return	1.14285714286
+31.0	gross domestic product	1.83333333333
+31.0	purchasing power	1.6
+31.0	revenue	2.0
+31.0	average cost	1.2
+31.0	household income	1.2
+31.0	annual growth rate	2.1
+31.0	market value	1.875
+31.0	profit margin	1.4
+32.0	fish	1.57142857143
+32.0	squirrel	1.22222222222
+32.0	wild boar	0.888888888889
+32.0	animal	1.66666666667
+32.0	mammal	1.0
+32.0	turtle	1.33333333333
+32.0	brackish water	0.6
+32.0	pig	0.5
+32.0	crayfish	1.25
+32.0	white-tailed deer	1.28571428571
+32.0	rabbit	0.857142857143
+32.0	rodent	1.0
+32.0	raccoon	1.28571428571
+32.0	insect	1.5
+32.0	bird	1.6
+32.0	pond	0.833333333333
+32.0	crocodile	1.28571428571
+32.0	deer	0.666666666667
+32.0	frog	0.666666666667
+33.0	hugh	1.25
+33.0	ralph	1.5
+33.0	richard	1.16666666667
+33.0	leonard	1.0
+33.0	edward	1.14285714286
+33.0	anthony	0.666666666667
+33.0	larry	1.28571428571
+33.0	charles	0.75
+33.0	george douglas (bishop)	0.714285714286
+33.0	peter	0.2
+33.0	daniel	1.2
+33.0	andrew	1.0
+33.0	david	1.0
+33.0	stephen	1.0
+33.0	michael	0.666666666667
+33.0	christopher	1.14285714286
+33.0	kenneth	0.857142857143
+33.0	thomas	1.0
+33.0	robert	1.4
+34.0	costume	2.0
+34.0	hairstyle	0.666666666667
+34.0	trousers	0.714285714286
+34.0	bodysuit	1.8
+34.0	wig	0.666666666667
+34.0	clothing	1.83333333333
+34.0	hair	0.571428571429
+34.0	girl	1.25
+34.0	in love	1.125
+34.0	dress	1.5
+34.0	a woman	1.42857142857
+34.0	womanizer (song)	0.285714285714
+34.0	beloved (jewelry album)	1.42857142857
+34.0	long hair	0.333333333333
+34.0	this girl	1.375
+34.0	blouse	1.33333333333
+34.0	wedding dress	1.2
+34.0	boyfriend	1.2
+34.0	gown	1.0
+35.0	marriage	2.16666666667
+35.0	uncle	1.33333333333
+35.0	orphan	1.0
+35.0	child	1.0
+35.0	housewife	1.16666666667
+35.0	sister	1.33333333333
+35.0	mother	1.6
+35.0	father	1.57142857143
+35.0	aunt	1.5
+35.0	grandchild	1.5
+35.0	wife	1.71428571429
+35.0	nanny	1.75
+35.0	only child	1.25
+35.0	girl	1.2
+35.0	spinster	0.333333333333
+35.0	sisters (tv series)	0.428571428571
+35.0	husband	2.33333333333
+35.0	daughter	1.625
+35.0	a woman	1.33333333333
+36.0	literature	1.71428571429
+36.0	book	2.625
+36.0	novelist	2.33333333333
+36.0	library journal	2.5
+36.0	bibliography	1.75
+36.0	author	2.2
+36.0	publishing	2.11111111111
+36.0	literary editor	1.71428571429
+36.0	prose	1.28571428571
+36.0	novel	2.0
+36.0	writer	2.0
+36.0	biography	2.33333333333
+36.0	non-fiction	0.857142857143
+36.0	fiction	1.4
+36.0	the writer	2.14285714286
+36.0	journal	1.875
+36.0	the novel	1.8
+36.0	essay	2.33333333333
+36.0	book review	1.5
+37.0	forget	0.833333333333
+37.0	be honest	1.33333333333
+37.0	want to	1.0
+37.0	my	0.5
+37.0	made me	0.25
+37.0	in love	1.66666666667
+37.0	the truth (aaron hall album)	0.5
+37.0	to me	0.333333333333
+37.0	we	0.4
+37.0	you do	0.4
+37.0	i could	0.375
+37.0	fall in love	2.0
+37.0	fun	1.66666666667
+37.0	do something	0.875
+37.0	you	0.857142857143
+37.0	and i	0.0
+37.0	feels	1.28571428571
+37.0	want	0.714285714286
+37.0	friends	1.6
+38.0	ipod touch	1.66666666667
+38.0	windows mobile	0.666666666667
+38.0	ipad (3rd generation)	1.25
+38.0	ios	2.0
+38.0	palm os	0.875
+38.0	ipad (1st generation)	1.875
+38.0	quicktime	1.0
+38.0	apple tv	1.1
+38.0	ipad	1.71428571429
+38.0	zune	0.75
+38.0	ipad 2	1.5
+38.0	smartphone	2.0
+38.0	windows phone 7	1.0
+38.0	iphone	2.5
+38.0	blackberry 10	0.8
+38.0	iphone 4s	1.42857142857
+38.0	apple inc.	2.42857142857
+38.0	windows phone	0.714285714286
+38.0	ipad (4th generation)	1.83333333333
+39.0	learning to read	2.2
+39.0	dialect	1.57142857143
+39.0	arabic	1.0
+39.0	alphabet	2.25
+39.0	vocabulary	2.33333333333
+39.0	writing system	2.22222222222
+39.0	pidgin	0.857142857143
+39.0	arabic alphabet	1.125
+39.0	word	2.16666666667
+39.0	written language	1.85714285714
+39.0	speaking	2.42857142857
+39.0	language	2.0
+39.0	latin script	1.4
+39.0	english language	2.44444444444
+39.0	latin alphabet	1.85714285714
+39.0	writing	2.55555555556
+39.0	orthography	2.28571428571
+39.0	translation	1.85714285714
+39.0	letter (alphabet)	1.66666666667
+40.0	camera phone	2.0
+40.0	camera	1.71428571429
+40.0	1080p	1.5
+40.0	digital video	1.6
+40.0	mobile device	1.625
+40.0	computer monitor	1.57142857143
+40.0	video capture	1.85714285714
+40.0	camcorder	2.0
+40.0	image capture	1.25
+40.0	remote control	1.42857142857
+40.0	touchscreen	2.0
+40.0	video	2.33333333333
+40.0	digital camera	1.5
+40.0	image processing	1.0
+40.0	webcam	2.0
+40.0	viewfinder	1.77777777778
+40.0	hdmi	1.33333333333
+40.0	augmented reality	1.11111111111
+40.0	high-definition video	1.875
+41.0	database	2.625
+41.0	data structure	1.2
+41.0	reference (computer science)	1.71428571429
+41.0	pointer (computer programming)	0.666666666667
+41.0	data model	1.5
+41.0	application programming interface	0.857142857143
+41.0	metadata	2.0
+41.0	parameter	1.6
+41.0	c++	2.0
+41.0	data dictionary	1.42857142857
+41.0	subroutine	1.42857142857
+41.0	data type	2.16666666667
+41.0	pl/sql	1.25
+41.0	executable	1.14285714286
+41.0	file format	1.3
+41.0	iterator	1.16666666667
+41.0	namespace	1.14285714286
+41.0	regular expression	1.25
+41.0	sql	1.33333333333
+42.0	george w. bush	2.1
+42.0	mahmoud abbas	2.0
+42.0	iraq	2.2
+42.0	syria	1.77777777778
+42.0	saddam hussein	2.66666666667
+42.0	gulf war	1.57142857143
+42.0	mahmoud ahmadinejad	1.44444444444
+42.0	nouri al-maliki	1.11111111111
+42.0	iraqi army	1.71428571429
+42.0	iraq war	3.0
+42.0	war on terror	1.66666666667
+42.0	bashar al-assad	0.75
+42.0	invasion of kuwait	0.857142857143
+42.0	syrian civil war	0.75
+42.0	benjamin netanyahu	1.44444444444
+42.0	hezbollah	1.6
+42.0	mohamed morsi	1.11111111111
+42.0	2003 invasion of iraq	2.0
+42.0	iraqi kurdistan	1.8
+43.0	afternoon	1.25
+43.0	6 am	0.875
+43.0	day	1.0
+43.0	into the morning (album)	0.8
+43.0	sunday	1.5
+43.0	that night	1.75
+43.0	no sleep (album)	1.0
+43.0	11am	0.857142857143
+43.0	woke	1.4
+43.0	morning	1.2
+43.0	half an hour	0.666666666667
+43.0	live (alison krauss album)	0.857142857143
+43.0	that day	0.25
+43.0	evening	1.83333333333
+43.0	in the evening	2.0
+43.0	sunday afternoon	1.25
+43.0	on christmas day	0.571428571429
+43.0	tuesday (you am i song)	0.666666666667
+43.0	two weeks	0.571428571429
+44.0	earth	1.85714285714
+44.0	sun	1.0
+44.0	planet	2.0
+44.0	moon	2.0
+44.0	on the moon	0.8
+44.0	phobos (moon)	1.4
+44.0	milky way	1.125
+44.0	ganymede (moon)	2.25
+44.0	titan (moon)	2.0
+44.0	saturn	0.75
+44.0	uranus	1.2
+44.0	hyperspace (science fiction)	1.71428571429
+44.0	venus	1.0
+44.0	planetary surface	1.0
+44.0	solar system	1.4
+44.0	sunlight	1.28571428571
+44.0	mars	0.777777777778
+44.0	martian	1.25
+44.0	jupiter	1.16666666667
+45.0	gothic architecture	1.85714285714
+45.0	bell tower	1.75
+45.0	aisle	1.0
+45.0	rose window	0.8
+45.0	spire	1.75
+45.0	nave	1.16666666667
+45.0	clerestory	1.4
+45.0	narthex	1.0
+45.0	tracery	1.22222222222
+45.0	barrel vault	1.0
+45.0	chancel	1.28571428571
+45.0	baptistery	1.57142857143
+45.0	transept	1.375
+45.0	romanesque architecture	1.66666666667
+45.0	arch	1.4
+45.0	apse	1.5
+45.0	porch	1.0
+45.0	rood screen	1.0
+45.0	church architecture	2.71428571429
+46.0	peter paul rubens	1.33333333333
+46.0	nicolas poussin	1.0
+46.0	frans hals	1.0
+46.0	grisaille	0.5
+46.0	landscape painting	0.75
+46.0	hans holbein the younger	1.11111111111
+46.0	self-portrait (giorgione)	1.875
+46.0	albrecht dürer	1.4
+46.0	anthony van dyck	0.75
+46.0	titian	1.88888888889
+46.0	still life	1.5
+46.0	painting	2.0
+46.0	oil painting	1.6
+46.0	renaissance art	2.0
+46.0	self-portrait	2.4
+46.0	portrait painting	2.33333333333
+46.0	rembrandt	1.3
+46.0	diego velázquez	1.4
+46.0	jan van eyck	1.66666666667
+47.0	tuber	0.714285714286
+47.0	bract	0.375
+47.0	secondary growth	1.5
+47.0	drupe	1.4
+47.0	panicle	1.33333333333
+47.0	fruit	1.0
+47.0	leaf	2.0
+47.0	germination	1.2
+47.0	rootstock	2.0
+47.0	corm	1.66666666667
+47.0	raceme	0.8
+47.0	rhizome	0.4
+47.0	shrub	1.28571428571
+47.0	inflorescence	2.25
+47.0	cactus	1.0
+47.0	deciduous	1.0
+47.0	perennial plant	1.71428571429
+47.0	tree	1.5
+47.0	seedling	2.44444444444
+48.0	jesus	2.4
+48.0	god	1.71428571429
+48.0	god the father	3.0
+48.0	christian theology	2.14285714286
+48.0	faith	2.2
+48.0	salvation (christianity)	1.33333333333
+48.0	salvation	2.0
+48.0	eternal life (christianity)	2.0
+48.0	idolatry	1.83333333333
+48.0	righteousness	0.8
+48.0	repentance	1.57142857143
+48.0	son of god	2.28571428571
+48.0	sanctification	1.33333333333
+48.0	christianity	2.6
+48.0	baptism	1.66666666667
+48.0	sacrament	1.71428571429
+48.0	holy spirit (christianity)	2.5
+48.0	holy spirit (christian denominational variations)	1.33333333333
+48.0	new testament	1.88888888889
+49.0	duomo	2.2
+49.0	naples	1.2
+49.0	ferrara	1.11111111111
+49.0	florence	2.28571428571
+49.0	urbino	1.0
+49.0	santa croce	1.14285714286
+49.0	perugia	1.25
+49.0	bartolomeo	1.16666666667
+49.0	san giovanni	2.16666666667
+49.0	venice	1.5
+49.0	bologna	1.0
+49.0	padua	1.28571428571
+49.0	camerino	1.25
+49.0	orvieto	1.0
+49.0	rome	1.8
+49.0	lucca	2.0
+49.0	viterbo	0.8
+49.0	verona	1.16666666667
+49.0	città di castello	0.833333333333
+50.0	illustrator	2.25
+50.0	abstract art	2.4
+50.0	modern art	1.28571428571
+50.0	oil painting	2.16666666667
+50.0	sculpture	1.8
+50.0	printmaking	2.22222222222
+50.0	portrait painting	2.16666666667
+50.0	gouache	1.6
+50.0	art history	2.4
+50.0	visual arts	2.33333333333
+50.0	fine art	2.0
+50.0	art	2.16666666667
+50.0	watercolor painting	2.2
+50.0	landscape painting	1.8
+50.0	still life	1.375
+50.0	western painting	1.83333333333
+50.0	pastel	1.2
+50.0	painting	2.57142857143
+50.0	self-portrait	1.0
+51.0	hysterectomy	1.0
+51.0	cervix	2.0
+51.0	fetus	0.833333333333
+51.0	caesarean section	2.0
+51.0	pre-eclampsia	1.6
+51.0	placenta	2.0
+51.0	pregnancy	2.16666666667
+51.0	perineum	0.8
+51.0	childbirth	2.0
+51.0	ectopic pregnancy	2.14285714286
+51.0	vaginal bleeding	1.4
+51.0	breastfeeding	1.28571428571
+51.0	infertility	1.28571428571
+51.0	miscarriage	1.16666666667
+51.0	endometriosis	1.75
+51.0	uterine rupture	1.66666666667
+51.0	vagina	1.2
+51.0	endometrium	2.0
+51.0	uterus	2.0
+52.0	frigate	1.5
+52.0	destroyer	1.375
+52.0	ship	2.6
+52.0	united states navy	1.75
+52.0	torpedo	1.66666666667
+52.0	aircraft carrier	2.33333333333
+52.0	battlecruiser	2.0
+52.0	navy	2.55555555556
+52.0	naval aviation	2.28571428571
+52.0	royal navy	1.85714285714
+52.0	warship	2.66666666667
+52.0	spanish navy	1.14285714286
+52.0	submarine	2.55555555556
+52.0	torpedo boat	2.0
+52.0	naval warfare	2.71428571429
+52.0	kriegsmarine	1.66666666667
+52.0	cruiser	1.71428571429
+52.0	battleship	1.66666666667
+52.0	gunboat	1.4
+53.0	sepsis	1.66666666667
+53.0	patient	1.71428571429
+53.0	infection	1.375
+53.0	pain management	1.25
+53.0	appendicitis	1.33333333333
+53.0	chemotherapy	1.77777777778
+53.0	ovarian cancer	2.11111111111
+53.0	radiation therapy	1.28571428571
+53.0	intensive care unit	1.5
+53.0	brain tumor	2.14285714286
+53.0	myocardial infarction	1.0
+53.0	abdominal surgery	1.75
+53.0	liver transplantation	1.71428571429
+53.0	pathology	1.8
+53.0	lymphedema	1.0
+53.0	neurosurgery	1.85714285714
+53.0	surgery	2.0
+53.0	medical procedure	2.25
+53.0	cancer	1.85714285714
+54.0	high school	2.42857142857
+54.0	music education	2.0
+54.0	education	2.66666666667
+54.0	private school	1.6
+54.0	vocational education	2.16666666667
+54.0	state school	2.14285714286
+54.0	preschool	1.5
+54.0	teacher	2.0
+54.0	boarding school	2.28571428571
+54.0	primary education	1.83333333333
+54.0	tutor	1.66666666667
+54.0	school	2.83333333333
+54.0	student	2.0
+54.0	kindergarten	1.57142857143
+54.0	college	1.6
+54.0	secondary school	2.42857142857
+54.0	curriculum	2.83333333333
+54.0	art school	2.5
+54.0	university	1.6
+55.0	116th street (manhattan)	1.71428571429
+55.0	figueroa street	1.0
+55.0	broadway (manhattan)	1.71428571429
+55.0	u.s. route 20	1.125
+55.0	boulevard east	1.16666666667
+55.0	lafayette street	0.833333333333
+55.0	u.s. route 11	1.6
+55.0	parkway	1.16666666667
+55.0	street	1.83333333333
+55.0	boulevard	1.44444444444
+55.0	summit avenue (hudson palisades)	1.0
+55.0	division street	1.16666666667
+55.0	park avenue	1.83333333333
+55.0	95th street (manhattan)	1.44444444444
+55.0	west broadway	1.85714285714
+55.0	charles street (baltimore)	1.2
+55.0	59th street (manhattan)	1.125
+55.0	third avenue	1.66666666667
+55.0	north avenue (chicago)	1.0
+56.0	symphony	2.0
+56.0	piano concerto	1.33333333333
+56.0	chamber music	2.42857142857
+56.0	leonard bernstein	1.75
+56.0	song	2.5
+56.0	operetta	1.42857142857
+56.0	chamber music (berio)	1.875
+56.0	choir	0.0
+56.0	music	2.42857142857
+56.0	composer	1.57142857143
+56.0	repertoire	1.66666666667
+56.0	concert performance	2.5
+56.0	pianist	1.8
+56.0	ragtime	1.0
+56.0	classical music	2.375
+56.0	opera	2.0
+56.0	orchestra	2.28571428571
+56.0	symphony no. 9 (beethoven)	2.28571428571
+56.0	concerto	2.44444444444
+57.0	door	1.77777777778
+57.0	colonnade	1.11111111111
+57.0	clerestory	0.833333333333
+57.0	basement	1.0
+57.0	bedroom	1.5
+57.0	hall	0.833333333333
+57.0	fireplace	1.125
+57.0	courtyard	1.0
+57.0	building	2.28571428571
+57.0	roof	1.14285714286
+57.0	floor	2.0
+57.0	porch	1.71428571429
+57.0	entrance hall	1.25
+57.0	window	2.2
+57.0	balcony	1.66666666667
+57.0	kitchen	1.75
+57.0	entryway	2.0
+57.0	oriel window	1.28571428571
+57.0	the ceiling	1.71428571429
+58.0	byzantine art	2.22222222222
+58.0	saint peter	2.8
+58.0	pope gregory i	2.25
+58.0	baptistery	2.25
+58.0	catacombs of rome	1.125
+58.0	hagia sophia	0.444444444444
+58.0	constantine the great	1.66666666667
+58.0	byzantine empire	1.71428571429
+58.0	cathedral	2.125
+58.0	catholic church	1.85714285714
+58.0	church architecture	2.28571428571
+58.0	late antiquity	1.875
+58.0	early middle ages	1.71428571429
+58.0	aquileia	1.0
+58.0	byzantine architecture	1.71428571429
+58.0	basilica	2.33333333333
+58.0	history of christianity	2.16666666667
+58.0	christianity	2.0
+58.0	church fathers	1.0
+59.0	molybdenum	1.25
+59.0	cobalt	1.25
+59.0	hydrochloric acid	2.0
+59.0	antimony	1.55555555556
+59.0	chloride	1.0
+59.0	copper	1.28571428571
+59.0	magnesium	1.28571428571
+59.0	titanium	1.88888888889
+59.0	bismuth	1.5
+59.0	chromium	1.2
+59.0	sodium hydroxide	1.14285714286
+59.0	sodium chloride	1.6
+59.0	sulfuric acid	1.8
+59.0	sulfide	1.33333333333
+59.0	nitric acid	2.5
+59.0	zinc	1.5
+59.0	sulfur	1.75
+59.0	iron	0.5
+59.0	hydroxide	1.83333333333
+60.0	temple	2.14285714286
+60.0	shrine	2.22222222222
+60.0	portico	0.4
+60.0	roman temple	2.28571428571
+60.0	palace	1.85714285714
+60.0	altar	0.857142857143
+60.0	roman art	2.375
+60.0	peristyle	1.42857142857
+60.0	basilica	1.5
+60.0	ancient roman architecture	1.71428571429
+60.0	capitoline hill	0.833333333333
+60.0	triumphal arch	0.714285714286
+60.0	baptistery	0.8
+60.0	exedra	0.571428571429
+60.0	hierapolis	1.57142857143
+60.0	grotto	0.5
+60.0	roman sculpture	2.0
+60.0	mausoleum	1.5
+60.0	roman forum	2.0
+61.0	church architecture	2.25
+61.0	modern architecture	2.6
+61.0	history of architecture	2.0
+61.0	neoclassical architecture	1.375
+61.0	beaux-arts architecture	1.71428571429
+61.0	architectural style	2.55555555556
+61.0	baroque architecture	1.42857142857
+61.0	renaissance architecture	2.14285714286
+61.0	renaissance revival architecture	1.42857142857
+61.0	international style (architecture)	1.8
+61.0	gothic revival architecture	2.0
+61.0	classical architecture	1.0
+61.0	architect	2.57142857143
+61.0	vernacular architecture	1.0
+61.0	georgian architecture	2.0
+61.0	palladian architecture	2.0
+61.0	architecture	2.71428571429
+61.0	architectural design	2.0
+61.0	gothic architecture	1.66666666667
+62.0	distance	1.57142857143
+62.0	square metre	1.8
+62.0	weight	1.33333333333
+62.0	buoyancy	1.0
+62.0	long ton	0.4
+62.0	overall length	1.42857142857
+62.0	cubic foot	2.0
+62.0	relative density	1.66666666667
+62.0	1 metre	1.625
+62.0	wheelbase	1.125
+62.0	length	2.11111111111
+62.0	size	1.2
+62.0	diameter	1.14285714286
+62.0	kg	1.33333333333
+62.0	circumference	1.33333333333
+62.0	pounds per square inch	2.0
+62.0	speed	1.0
+62.0	height	0.833333333333
+62.0	centimetre	1.57142857143
+63.0	connective tissue	2.4
+63.0	peritoneum	0.6
+63.0	periosteum	2.0
+63.0	muscle tissue	1.4
+63.0	dermis	0.857142857143
+63.0	soft tissue	0.875
+63.0	bone	0.666666666667
+63.0	skeletal muscle	1.57142857143
+63.0	cartilage	2.0
+63.0	cell membrane	1.71428571429
+63.0	epithelium	1.75
+63.0	lymph node	0.8
+63.0	necrosis	1.57142857143
+63.0	tendon	1.16666666667
+63.0	muscle	2.0
+63.0	abdominal wall	1.0
+63.0	extracellular matrix	1.0
+63.0	inflammation	2.0
+63.0	collagen	1.66666666667
+64.0	woodblock printing	0.6
+64.0	celadon	1.0
+64.0	tang dynasty	2.0
+64.0	blue and white porcelain	1.57142857143
+64.0	chinese culture	1.42857142857
+64.0	qing dynasty	1.42857142857
+64.0	japanese art	2.55555555556
+64.0	lacquerware	1.0
+64.0	goryeo	0.875
+64.0	ceramic art	2.16666666667
+64.0	chinese ceramics	2.28571428571
+64.0	buddhist art	0.857142857143
+64.0	jingdezhen	1.125
+64.0	japanese painting	1.4
+64.0	porcelain	2.2
+64.0	earthenware	0.833333333333
+64.0	fujian	0.714285714286
+64.0	chinese art	1.66666666667
+64.0	cloisonné	2.0
+65.0	southwestern united states	1.57142857143
+65.0	santa ana river	1.42857142857
+65.0	los angeles	2.33333333333
+65.0	sonora	1.14285714286
+65.0	san antonio	1.125
+65.0	san gabriel valley	1.16666666667
+65.0	san bernardino mountains	1.33333333333
+65.0	california	1.66666666667
+65.0	san bernardino valley	1.14285714286
+65.0	southern california	2.0
+65.0	san joaquin valley	0.25
+65.0	new mexico	1.66666666667
+65.0	san fernando valley	2.16666666667
+65.0	san diego	1.14285714286
+65.0	colorado	1.125
+65.0	san francisco	1.66666666667
+65.0	baja california	2.0
+65.0	northern california	1.75
+65.0	mexicali	1.14285714286
+66.0	louis philippe i	1.42857142857
+66.0	prince	2.33333333333
+66.0	louis xiii of france	2.5
+66.0	duke	1.8
+66.0	louis xi of france	1.75
+66.0	grand duke	1.33333333333
+66.0	louis xii of france	1.33333333333
+66.0	house of bourbon	1.55555555556
+66.0	louis xiv of france	2.0
+66.0	prince of orange	1.0
+66.0	king of italy	0.875
+66.0	louis xv of france	1.57142857143
+66.0	duke of orléans	1.44444444444
+66.0	francis i of france	2.2
+66.0	german emperor	1.71428571429
+66.0	louis xviii of france	1.66666666667
+66.0	holy roman emperor	1.42857142857
+66.0	count of flanders	1.28571428571
+66.0	duke of burgundy	2.0
+67.0	my	0.0
+67.0	love	2.71428571429
+67.0	everything (the bangles album)	0.833333333333
+67.0	son of god	1.28571428571
+67.0	girl	1.14285714286
+67.0	forget	0.428571428571
+67.0	conscience	1.0
+67.0	to me	0.142857142857
+67.0	my sister	1.0
+67.0	to you	0.75
+67.0	love is	1.6
+67.0	mercy	0.6
+67.0	in love	1.375
+67.0	god	0.75
+67.0	crying	0.571428571429
+67.0	a man	1.0
+67.0	you	0.375
+67.0	in heaven	0.333333333333
+67.0	mother	2.42857142857
+68.0	sailing	1.625
+68.0	gunboat	1.5
+68.0	warship	1.125
+68.0	yacht	1.77777777778
+68.0	sailing ship	1.71428571429
+68.0	north sea	2.16666666667
+68.0	sea	1.0
+68.0	harbor	2.11111111111
+68.0	schooner	1.875
+68.0	brigantine	0.666666666667
+68.0	boat	2.0
+68.0	ship	1.85714285714
+68.0	ferry	1.57142857143
+68.0	fishing vessel	1.42857142857
+68.0	sloop	1.33333333333
+68.0	port	1.33333333333
+68.0	steamship	1.0
+68.0	frigate	1.66666666667
+68.0	whaler	1.55555555556
+69.0	painting	1.85714285714
+69.0	ancient art	2.66666666667
+69.0	sculpture	1.5
+69.0	polychrome	1.14285714286
+69.0	byzantine art	1.875
+69.0	cloisonné	1.4
+69.0	private collection	1.75
+69.0	louvre	1.42857142857
+69.0	art	2.14285714286
+69.0	british museum	1.33333333333
+69.0	islamic art	1.4
+69.0	faience	1.4
+69.0	history of art	2.0
+69.0	terracotta	1.66666666667
+69.0	ancient greek art	1.4
+69.0	ceramic art	2.25
+69.0	medieval art	2.0
+69.0	victoria and albert museum	2.0
+69.0	iconography	2.0
+70.0	building material	2.75
+70.0	stone wall	1.33333333333
+70.0	travertine	1.0
+70.0	limestone	0.666666666667
+70.0	retaining wall	0.666666666667
+70.0	fly ash	1.125
+70.0	cast iron	1.125
+70.0	roof	1.14285714286
+70.0	brick	1.8
+70.0	concrete	2.0
+70.0	granite	1.5
+70.0	lime mortar	1.125
+70.0	reinforced concrete	2.16666666667
+70.0	formwork	1.5
+70.0	precast concrete	1.14285714286
+70.0	masonry	1.42857142857
+70.0	flat roof	1.0
+70.0	curtain wall (architecture)	1.14285714286
+70.0	concrete slab	1.0
+71.0	cádiz	0.6
+71.0	new spain	1.75
+71.0	valladolid	1.25
+71.0	viceroyalty of peru	0.6
+71.0	sigüenza	1.22222222222
+71.0	zaragoza	1.0
+71.0	spain	1.71428571429
+71.0	burgos	1.0
+71.0	valencia	1.75
+71.0	segovia	0.75
+71.0	seville	1.77777777778
+71.0	andalusia	1.0
+71.0	palencia	1.0
+71.0	badajoz	0.4
+71.0	pamplona	1.85714285714
+71.0	salamanca	1.0
+71.0	alcalá de henares	0.6
+71.0	philip ii of spain	1.8
+71.0	spanish empire	2.375
+72.0	mother	1.5
+72.0	husband	1.0
+72.0	lady	1.83333333333
+72.0	father	1.66666666667
+72.0	aunt	2.0
+72.0	annie (musical)	0.75
+72.0	ellen	0.4
+72.0	uncle	0.857142857143
+72.0	daughter	1.375
+72.0	girl	1.6
+72.0	mrs.	1.8
+72.0	wife	2.14285714286
+72.0	sisters (tv series)	0.75
+72.0	adopted daughter	1.0
+72.0	mr.	1.83333333333
+72.0	a woman	1.0
+72.0	sister	1.33333333333
+72.0	emma (novel)	0.714285714286
+72.0	sarah	0.285714285714
+73.0	1st infantry division (united kingdom)	1.33333333333
+73.0	infantry	1.83333333333
+73.0	6th division (australia)	1.75
+73.0	special forces	2.55555555556
+73.0	1st cavalry division (united states)	1.6
+73.0	military strategy	2.6
+73.0	cavalry	1.33333333333
+73.0	army	2.57142857143
+73.0	7th infantry division (united states)	1.5
+73.0	24th infantry division (united states)	1.5
+73.0	artillery	1.66666666667
+73.0	close air support	1.42857142857
+73.0	siege	1.0
+73.0	light division	1.0
+73.0	encirclement	1.28571428571
+73.0	counterattack	1.33333333333
+73.0	battle	2.71428571429
+73.0	1st cavalry division (united kingdom)	1.625
+73.0	4th infantry regiment (united states)	1.57142857143
+74.0	japanese garden	2.0
+74.0	grotto	0.6
+74.0	cottage garden	1.4
+74.0	orangery	1.4
+74.0	topiary	2.33333333333
+74.0	garden	2.0
+74.0	shrubbery	1.0
+74.0	chinese garden	1.83333333333
+74.0	natural landscape	2.375
+74.0	kew gardens	1.5
+74.0	garden design	2.4
+74.0	arboretum	1.4
+74.0	ornamental plant	2.0
+74.0	walled garden	0.666666666667
+74.0	flower	1.83333333333
+74.0	botanical garden	1.28571428571
+74.0	picturesque	2.14285714286
+74.0	english landscape garden	1.66666666667
+74.0	gardening	2.57142857143
+75.0	gothic revival architecture	1.375
+75.0	southwell minster	1.0
+75.0	ely cathedral	1.57142857143
+75.0	cathedral	2.14285714286
+75.0	church architecture	2.0
+75.0	gothic architecture	2.66666666667
+75.0	bishop of worcester	1.83333333333
+75.0	romanesque architecture	2.2
+75.0	lady chapel	1.83333333333
+75.0	hereford cathedral	2.28571428571
+75.0	abbot	1.55555555556
+75.0	parish church	1.71428571429
+75.0	canons regular	1.16666666667
+75.0	archbishop of york	1.0
+75.0	chapel of ease	1.83333333333
+75.0	priory church	2.0
+75.0	collegiate church	0.6
+75.0	bishop of lincoln	1.5
+75.0	bishop of rochester	1.1
+76.0	reason	0.857142857143
+76.0	rationalism	2.0
+76.0	belief	1.66666666667
+76.0	mind	2.0
+76.0	idealism	1.125
+76.0	rationality	1.33333333333
+76.0	natural law	2.0
+76.0	nature (philosophy)	1.57142857143
+76.0	ethics	1.5
+76.0	morality	1.4
+76.0	materialism	0.875
+76.0	common sense	1.28571428571
+76.0	metaphysics	1.85714285714
+76.0	knowledge	2.625
+76.0	human nature	2.0
+76.0	human	1.42857142857
+76.0	free will	1.14285714286
+76.0	existence of god	1.0
+76.0	philosophy	1.2
+77.0	john king (priest)	1.0
+77.0	james douglas (died 1751)	1.14285714286
+77.0	margaret	1.4
+77.0	anne	0.5
+77.0	earl of lichfield	0.333333333333
+77.0	son-in-law	0.285714285714
+77.0	lady	1.71428571429
+77.0	earl of carlisle	0.857142857143
+77.0	earl of pembroke	0.8
+77.0	elizabeth	2.0
+77.0	anne of denmark	1.33333333333
+77.0	robert cecil (mp)	1.66666666667
+77.0	hugh	0.555555555556
+77.0	earl of beverley	1.71428571429
+77.0	charles	0.6
+77.0	earl	1.0
+77.0	thomas lawrence	0.857142857143
+77.0	edward	0.75
+77.0	thomas jermyn (died 1645)	1.0
+78.0	prose	0.666666666667
+78.0	playwright	1.14285714286
+78.0	poetry	2.14285714286
+78.0	drama	1.83333333333
+78.0	english literature	2.42857142857
+78.0	lyric poetry	1.33333333333
+78.0	blank verse	1.6
+78.0	film adaptation	1.4
+78.0	comedy	0.5
+78.0	short story	0.857142857143
+78.0	american literature	1.22222222222
+78.0	libretto	1.57142857143
+78.0	literature	1.71428571429
+78.0	writer	2.33333333333
+78.0	king lear	1.14285714286
+78.0	romeo and juliet	1.83333333333
+78.0	long poem	1.85714285714
+78.0	novel	2.16666666667
+78.0	bertolt brecht	1.0
+79.0	nitrogen	1.375
+79.0	waste heat	0.75
+79.0	carbon dioxide	1.0
+79.0	ammonia	0.8
+79.0	coolant	1.6
+79.0	heat sink	2.0
+79.0	heat pump	1.57142857143
+79.0	thermocouple	1.33333333333
+79.0	heat exchanger	1.8
+79.0	thermal expansion	2.0
+79.0	liquid	1.33333333333
+79.0	electric current	2.33333333333
+79.0	heat pipe	2.0
+79.0	hydrogen	1.44444444444
+79.0	evaporator (marine)	1.33333333333
+79.0	heat transfer	1.5
+79.0	evaporation	2.33333333333
+79.0	water vapor	1.83333333333
+79.0	evaporator	0.25
+80.0	cannon	1.0
+80.0	flight deck	0.5
+80.0	torpedo	1.55555555556
+80.0	electric motor	1.375
+80.0	vickers machine gun	1.25
+80.0	propeller	1.33333333333
+80.0	machine gun	1.625
+80.0	bofors 40 mm gun	1.16666666667
+80.0	lewis gun	1.16666666667
+80.0	rate of fire	1.2
+80.0	pusher configuration	0.857142857143
+80.0	naval artillery	2.0
+80.0	outboard motor	1.2
+80.0	diesel engine	1.42857142857
+80.0	gas turbine	1.5
+80.0	main battery	0.571428571429
+80.0	steam engine	1.85714285714
+80.0	gun turret	2.125
+80.0	autocannon	1.4
+81.0	orbit	1.83333333333
+81.0	venus	0.833333333333
+81.0	earth	1.71428571429
+81.0	solar system	1.57142857143
+81.0	jupiter	1.0
+81.0	star	2.2
+81.0	occultation	1.25
+81.0	moon	2.33333333333
+81.0	planet	1.5
+81.0	angular distance	1.71428571429
+81.0	saturn	1.22222222222
+81.0	redshift	1.57142857143
+81.0	parallax	1.2
+81.0	black hole	1.6
+81.0	angular diameter	1.22222222222
+81.0	milky way	1.5
+81.0	ecliptic	1.16666666667
+81.0	planetary system	1.71428571429
+81.0	uranus	2.0
+82.0	phonation	1.875
+82.0	intonation (linguistics)	1.83333333333
+82.0	vowel	1.0
+82.0	consonant	1.57142857143
+82.0	language	1.75
+82.0	pitch accent	1.5
+82.0	guttural	0.5
+82.0	vowel length	1.83333333333
+82.0	diction	2.3
+82.0	gemination	1.2
+82.0	voice (phonetics)	2.375
+82.0	pronunciation	1.14285714286
+82.0	utterance	2.22222222222
+82.0	phoneme	1.83333333333
+82.0	timbre	0.5
+82.0	rhyme	1.0
+82.0	tone (linguistics)	2.28571428571
+82.0	inflection	1.16666666667
+82.0	prosody (linguistics)	2.22222222222
+83.0	election	2.66666666667
+83.0	electoral college (united states)	1.16666666667
+83.0	primary election	2.25
+83.0	two-party system	1.4
+83.0	green party	1.0
+83.0	write-in candidate	1.25
+83.0	political party	2.125
+83.0	superdelegate	1.66666666667
+83.0	presidential nominee	2.14285714286
+83.0	independent democrat	2.125
+83.0	candidate	2.4
+83.0	minor party	1.5
+83.0	state senator	2.14285714286
+83.0	democratic party (united states)	2.0
+83.0	voter turnout	2.11111111111
+83.0	conservative democrat	1.66666666667
+83.0	general election	2.28571428571
+83.0	incumbent	1.375
+83.0	running mate	1.28571428571
+84.0	palestinian territories	2.14285714286
+84.0	palestine liberation organization	1.5
+84.0	yitzhak rabin	1.5
+84.0	ehud barak	1.625
+84.0	gaza strip	1.57142857143
+84.0	benjamin netanyahu	2.125
+84.0	ariel sharon	1.0
+84.0	david ben-gurion	1.2
+84.0	mahmoud abbas	1.83333333333
+84.0	tzipi livni	1.42857142857
+84.0	menachem begin	1.14285714286
+84.0	shimon peres	1.33333333333
+84.0	east jerusalem	2.0
+84.0	likud	1.0
+84.0	hamas	1.0
+84.0	avigdor lieberman	2.25
+84.0	israeli settlement	2.1
+84.0	ehud olmert	1.16666666667
+84.0	fatah	1.28571428571
+85.0	extra innings	2.0
+85.0	home run	1.83333333333
+85.0	kansas city royals	0.625
+85.0	justin verlander	1.28571428571
+85.0	josh beckett	0.857142857143
+85.0	double play	1.625
+85.0	toronto blue jays	1.0
+85.0	boston red sox	2.25
+85.0	no-hitter	1.0
+85.0	zack greinke	1.42857142857
+85.0	andruw jones	1.0
+85.0	roy halladay	1.25
+85.0	atlanta braves	1.33333333333
+85.0	alfonso soriano	1.71428571429
+85.0	detroit tigers	1.25
+85.0	san francisco giants	1.66666666667
+85.0	complete game	1.5
+85.0	houston astros	1.22222222222
+85.0	cincinnati reds	0.8
+86.0	mental health	1.66666666667
+86.0	physician	2.14285714286
+86.0	nephrology	1.4
+86.0	health	2.5
+86.0	psychiatry	2.0
+86.0	hospital	2.33333333333
+86.0	rheumatology	1.42857142857
+86.0	neurology	1.16666666667
+86.0	pain management	1.2
+86.0	ambulatory care	2.2
+86.0	palliative care	1.25
+86.0	intensive care unit	0.8
+86.0	oncology	1.83333333333
+86.0	surgery	1.71428571429
+86.0	medicine	1.8
+86.0	clinic	2.57142857143
+86.0	patient	2.5
+86.0	geriatrics	1.0
+86.0	tuberculosis	1.5
+87.0	financial services	2.4
+87.0	investment fund	2.0
+87.0	hedge fund	1.28571428571
+87.0	stock exchange	2.0
+87.0	investment company	2.16666666667
+87.0	investor	2.4
+87.0	arbitrage	1.16666666667
+87.0	capital market	2.0
+87.0	venture capital	1.8
+87.0	apollo global management	1.125
+87.0	private equity	1.71428571429
+87.0	private equity fund	1.875
+87.0	brokerage firm	1.6
+87.0	stock market	2.4
+87.0	mutual fund	1.5
+87.0	fixed income	1.33333333333
+87.0	initial public offering	1.85714285714
+87.0	investment	2.625
+87.0	goldman sachs	1.9
+88.0	croatian war of independence	1.5
+88.0	yugoslavia	1.75
+88.0	kosovo liberation army	2.28571428571
+88.0	army of republika srpska	1.57142857143
+88.0	yugoslav wars	2.2
+88.0	slobodan milošević	1.875
+88.0	macedonia (region)	1.33333333333
+88.0	sandžak	0.857142857143
+88.0	yugoslav partisans	1.66666666667
+88.0	chetniks	1.2
+88.0	kosovo serbs	2.33333333333
+88.0	bosnian war	1.42857142857
+88.0	breakup of yugoslavia	2.0
+88.0	serbs	1.5
+88.0	montenegrins	1.14285714286
+88.0	kosovo albanians	2.0
+88.0	kosovo	2.16666666667
+88.0	kosovo war	3.0
+88.0	bosnia and herzegovina	1.83333333333
+89.0	whisky	1.28571428571
+89.0	iced tea	1.5
+89.0	milk	0.6
+89.0	ice cream	1.0
+89.0	syrup	1.14285714286
+89.0	root beer	1.66666666667
+89.0	the drink	2.25
+89.0	bread	1.42857142857
+89.0	cider	2.0
+89.0	dessert	1.5
+89.0	coffee	2.2
+89.0	drink	2.25
+89.0	chocolate	1.33333333333
+89.0	vodka	1.42857142857
+89.0	juice	1.71428571429
+89.0	liqueur	1.55555555556
+89.0	tea	1.25
+89.0	soft drink	0.666666666667
+89.0	beer	2.11111111111
+90.0	certiorari	1.2
+90.0	superior court	2.14285714286
+90.0	state court (united states)	1.85714285714
+90.0	lawyer	2.0
+90.0	united states district court	1.2
+90.0	jury trial	2.57142857143
+90.0	federal court	2.375
+90.0	attorney general	2.0
+90.0	state supreme court	1.875
+90.0	supreme court	2.22222222222
+90.0	federal judge	1.5
+90.0	prosecutor	2.0
+90.0	trial court	1.5
+90.0	new trial	1.0
+90.0	district court	1.83333333333
+90.0	precedent	1.28571428571
+90.0	appellate court	2.0
+90.0	private prosecution	1.83333333333
+90.0	lower court	1.83333333333
+91.0	minority leader	1.57142857143
+91.0	house of representatives	1.0
+91.0	independent democrat	1.375
+91.0	john boehner	1.0
+91.0	majority leader	1.5
+91.0	democratic party (united states)	1.33333333333
+91.0	electoral college (united states)	1.55555555556
+91.0	conservative democrat	1.4
+91.0	new york state senate	2.0
+91.0	legislature	1.875
+91.0	jim demint	0.5
+91.0	joe lieberman	2.0
+91.0	111th united states congress	2.0
+91.0	congressional district	1.14285714286
+91.0	ranking member	1.4
+91.0	united states senate	2.44444444444
+91.0	kansas house of representatives	0.75
+91.0	member of congress	1.4
+91.0	state senator	1.83333333333
+92.0	art	2.33333333333
+92.0	sculpture	1.625
+92.0	venice biennale	2.25
+92.0	philadelphia museum of art	1.25
+92.0	museum of modern art	1.33333333333
+92.0	metropolitan museum of art	2.14285714286
+92.0	art exhibition	1.2
+92.0	whitney biennial	1.0
+92.0	art museum	2.33333333333
+92.0	brooklyn museum	1.85714285714
+92.0	victoria and albert museum	1.83333333333
+92.0	museum of fine arts	2.83333333333
+92.0	modern art	2.0
+92.0	detroit institute of arts	1.16666666667
+92.0	contemporary art	2.6
+92.0	museum	2.625
+92.0	exhibition	2.83333333333
+92.0	cleveland museum of art	1.2
+92.0	smithsonian american art museum	2.125
+93.0	pricing	2.2
+93.0	brand	1.2
+93.0	wholesale	2.14285714286
+93.0	market value	1.28571428571
+93.0	sales	2.14285714286
+93.0	the sale	2.375
+93.0	business-to-business	2.25
+93.0	private label	1.0
+93.0	reseller	2.11111111111
+93.0	online shopping	2.0
+93.0	mail order	0.833333333333
+93.0	profit margin	2.14285714286
+93.0	broker	2.16666666667
+93.0	buyer	1.83333333333
+93.0	marketing	2.2
+93.0	purchasing	2.33333333333
+93.0	retail	1.75
+93.0	vendor	2.0
+93.0	berkshire hathaway	0.75
+94.0	college basketball	1.14285714286
+94.0	college football	1.5
+94.0	penn state nittany lions	1.75
+94.0	new york giants	1.71428571429
+94.0	playoffs	2.14285714286
+94.0	bowl game	1.0
+94.0	head coach	2.16666666667
+94.0	exhibition game	1.2
+94.0	running back	1.33333333333
+94.0	placekicker	1.77777777778
+94.0	donovan mcnabb	1.5
+94.0	pro bowl	1.5
+94.0	starting lineup	1.14285714286
+94.0	chicago bears	1.42857142857
+94.0	john elway	1.42857142857
+94.0	oklahoma sooners	1.5
+94.0	national football league	2.16666666667
+94.0	professional football (gridiron)	2.5
+94.0	perfect season	1.33333333333
+95.0	broadcast syndication	2.0
+95.0	e!	1.16666666667
+95.0	television network	2.8
+95.0	the wb	1.0
+95.0	television program	2.75
+95.0	ktla	1.0
+95.0	the cw	0.9
+95.0	tbs (tv channel)	1.4
+95.0	soapnet	1.33333333333
+95.0	wgn america	1.42857142857
+95.0	fox broadcasting company	2.0
+95.0	ion television	1.42857142857
+95.0	abc television	1.6
+95.0	nbc	1.71428571429
+95.0	abc family	1.2
+95.0	american broadcasting company	1.6
+95.0	usa network	2.75
+95.0	upn	0.833333333333
+95.0	cbs	1.57142857143
+96.0	mercedes-benz	1.11111111111
+96.0	new car	2.14285714286
+96.0	ford transit	1.5
+96.0	ford motor company	1.71428571429
+96.0	audi	1.0
+96.0	truck	2.0
+96.0	car	2.57142857143
+96.0	pickup truck	2.4
+96.0	drivetrain	1.16666666667
+96.0	ford mustang	1.875
+96.0	honda civic	1.71428571429
+96.0	v8 engine	1.4
+96.0	chevrolet	0.833333333333
+96.0	front-wheel drive	1.75
+96.0	volkswagen beetle	1.5
+96.0	four-wheel drive	2.55555555556
+96.0	station wagon	1.33333333333
+96.0	honda civic (ninth generation)	1.375
+96.0	volkswagen	1.28571428571
+97.0	boeing 757	1.28571428571
+97.0	non-stop flight	1.33333333333
+97.0	pan american world airways	1.875
+97.0	boeing 767	1.42857142857
+97.0	douglas dc-3	1.14285714286
+97.0	airplane	2.28571428571
+97.0	boeing	1.44444444444
+97.0	aircraft	1.83333333333
+97.0	air traffic control	0.75
+97.0	boeing 747	1.66666666667
+97.0	boeing 777	1.14285714286
+97.0	turboprop	1.42857142857
+97.0	airline	1.4
+97.0	boeing 707	1.77777777778
+97.0	boeing 747-400	1.16666666667
+97.0	boeing 737	2.0
+97.0	boeing 727	1.6
+97.0	aviation	1.83333333333
+97.0	airliner	2.42857142857
+98.0	financial market	2.5
+98.0	the financial	1.8
+98.0	foreign exchange market	1.5
+98.0	financial services	2.42857142857
+98.0	mortgage loan	2.42857142857
+98.0	money market	1.83333333333
+98.0	government debt	2.0
+98.0	financial institution	2.6
+98.0	investment	1.66666666667
+98.0	bank	2.625
+98.0	financial system	2.16666666667
+98.0	finance	2.8
+98.0	stock market	2.14285714286
+98.0	deposit insurance	2.5
+98.0	central bank	1.83333333333
+98.0	private banking	2.0
+98.0	capital market	2.25
+98.0	monetary policy	2.5
+98.0	goldman sachs	1.57142857143
+99.0	self-employment	2.0
+99.0	job	1.4
+99.0	union shop	1.2
+99.0	collective bargaining	1.0
+99.0	unemployment benefits	1.7
+99.0	payroll	2.0
+99.0	bargaining unit	0.833333333333
+99.0	salary	1.75
+99.0	strike action	1.42857142857
+99.0	living wage	1.8
+99.0	employment	2.33333333333
+99.0	wage	2.0
+99.0	employment contract	2.71428571429
+99.0	laborer	2.57142857143
+99.0	trade union	2.16666666667
+99.0	severance package	0.4
+99.0	pension	1.42857142857
+99.0	independent contractor	1.71428571429
+99.0	workplace	2.5
+100.0	john mccain	1.875
+100.0	joe lieberman	2.0
+100.0	ron paul	1.16666666667
+100.0	howard dean	0.75
+100.0	bob dole	0.8
+100.0	state senator	1.66666666667
+100.0	george w. bush	2.5
+100.0	lloyd bentsen	1.14285714286
+100.0	rick perry	1.0
+100.0	ross perot	0.75
+100.0	michael dukakis	1.0
+100.0	conservative democrat	2.0
+100.0	walter mondale	1.16666666667
+100.0	george h. w. bush	2.25
+100.0	democratic party (united states)	1.125
+100.0	write-in candidate	1.8
+100.0	mitt romney	1.44444444444
+100.0	running mate	0.6
+100.0	presidential nominee	2.8
+101.0	college basketball	1.5
+101.0	head coach	1.8
+101.0	penn state nittany lions	1.0
+101.0	national football league	1.71428571429
+101.0	ucla bruins	0.25
+101.0	connecticut huskies	1.1
+101.0	winning streak (sports)	1.33333333333
+101.0	player-coach	2.2
+101.0	professional football (gridiron)	2.0
+101.0	exhibition game	1.57142857143
+101.0	football team	2.5
+101.0	the first team	1.83333333333
+101.0	basketball	0.833333333333
+101.0	perfect season	1.66666666667
+101.0	college football	2.5
+101.0	playoffs	1.83333333333
+101.0	kentucky wildcats	1.42857142857
+101.0	starting lineup	1.0
+101.0	michigan wolverines	1.33333333333
+102.0	grand jury	1.75
+102.0	inspector general	1.83333333333
+102.0	special agent	2.14285714286
+102.0	subpoena	1.0
+102.0	criminal investigation	2.5
+102.0	special prosecutor	2.0
+102.0	expert witness	1.5
+102.0	state prosecutor	1.75
+102.0	deputy attorney general	1.5
+102.0	prosecutor	1.57142857143
+102.0	suspect	1.8
+102.0	united states attorney	1.6
+102.0	whistleblower	0.714285714286
+102.0	district attorney	1.75
+102.0	indictment	1.0
+102.0	attorney general	2.125
+102.0	police	1.71428571429
+102.0	federal bureau of investigation	2.14285714286
+102.0	informant	1.28571428571
+103.0	sustainable agriculture	2.4
+103.0	crop rotation	1.6
+103.0	sugarcane	0.6
+103.0	pasture	1.5
+103.0	cereal	0.833333333333
+103.0	animal feed	2.11111111111
+103.0	crop	2.0
+103.0	farm	2.4
+103.0	dairy	1.71428571429
+103.0	intensive farming	2.28571428571
+103.0	cash crop	1.75
+103.0	dairy farming	1.5
+103.0	organic farming	2.42857142857
+103.0	agriculture	2.75
+103.0	vegetable	2.375
+103.0	livestock	1.16666666667
+103.0	maize	2.0
+103.0	fertilizer	1.75
+103.0	wheat	2.125
+104.0	northeast china	1.8
+104.0	taiwan	1.0
+104.0	kuomintang	1.16666666667
+104.0	hainan	1.375
+104.0	fujian	1.42857142857
+104.0	jiangsu	1.57142857143
+104.0	taipei	0.8
+104.0	mainland china	1.66666666667
+104.0	japan	1.16666666667
+104.0	chinese civil war	1.66666666667
+104.0	kaohsiung	1.0
+104.0	china	2.44444444444
+104.0	guangdong	1.42857142857
+104.0	beijing	2.33333333333
+104.0	south korea	0.5
+104.0	zhejiang	2.0
+104.0	nanjing	0.857142857143
+104.0	korea	0.8
+104.0	tianjin	1.5
+105.0	salad	1.5
+105.0	soy sauce	1.0
+105.0	tomato sauce	2.2
+105.0	gravy	1.66666666667
+105.0	barbecue sauce	1.85714285714
+105.0	coconut chutney	0.5
+105.0	fish sauce	2.25
+105.0	nước chấm	1.0
+105.0	dessert	1.0
+105.0	pasta	1.28571428571
+105.0	ketchup	0.857142857143
+105.0	syrup	1.0
+105.0	condiment	1.71428571429
+105.0	coconut milk	0.857142857143
+105.0	garlic	1.0
+105.0	broth	1.16666666667
+105.0	black pepper	1.16666666667
+105.0	seasoning	1.55555555556
+105.0	mayonnaise	1.0
+106.0	melanoma	1.4
+106.0	biomarker	1.55555555556
+106.0	gene therapy	2.25
+106.0	telomerase	1.57142857143
+106.0	gene expression	1.77777777778
+106.0	carcinogenesis	1.625
+106.0	dna methylation	0.8
+106.0	in vivo	0.714285714286
+106.0	molecular biology	1.16666666667
+106.0	autoimmunity	1.57142857143
+106.0	genetics	2.4
+106.0	nervous system	1.16666666667
+106.0	brain	1.0
+106.0	immune system	0.6
+106.0	apoptosis	1.2
+106.0	human brain	1.88888888889
+106.0	zebrafish	0.6
+106.0	cell culture	1.0
+106.0	antibody	1.25
+107.0	football team	0.5
+107.0	game	2.75
+107.0	world series	1.16666666667
+107.0	the first team	1.33333333333
+107.0	winning streak (sports)	1.25
+107.0	playoff format	1.28571428571
+107.0	starting lineup	1.22222222222
+107.0	basketball	0.857142857143
+107.0	all-star game	1.66666666667
+107.0	one-game playoff	1.75
+107.0	playoffs	1.7
+107.0	football	0.555555555556
+107.0	perfect season	1.0
+107.0	professional sports	1.66666666667
+107.0	player-coach	1.83333333333
+107.0	extra innings	1.75
+107.0	tournament	1.6
+107.0	exhibition game	1.42857142857
+107.0	championship	1.875
+108.0	luke donald	1.125
+108.0	tournament	1.5
+108.0	golf	2.75
+108.0	colin montgomerie	1.57142857143
+108.0	stroke play	2.0
+108.0	playoffs	0.8
+108.0	match play	1.4
+108.0	perfect season	1.42857142857
+108.0	championship	2.16666666667
+108.0	the first team	1.42857142857
+108.0	masters tournament	1.75
+108.0	hat-trick	0.857142857143
+108.0	winning streak (sports)	1.57142857143
+108.0	ryder cup	2.0
+108.0	presidents cup	2.125
+108.0	rory mcilroy	1.0
+108.0	national team championship	1.4
+108.0	darren clarke	2.2
+108.0	challenge cup	1.83333333333
+109.0	extra innings	1.14285714286
+109.0	kansas city royals	1.22222222222
+109.0	cleveland indians	1.625
+109.0	boston red sox	1.0
+109.0	san francisco giants	0.666666666667
+109.0	david ortiz	1.5
+109.0	tampa bay rays	0.625
+109.0	toronto blue jays	1.33333333333
+109.0	new york yankees	1.875
+109.0	no-hitter	1.625
+109.0	cincinnati reds	0.5
+109.0	josh beckett	0.5
+109.0	home run	1.33333333333
+109.0	jason varitek	1.5
+109.0	atlanta braves	1.28571428571
+109.0	2003 world series	0.714285714286
+109.0	johnny bench	1.0
+109.0	houston astros	1.16666666667
+109.0	detroit tigers	1.75
+110.0	air national guard	2.2
+110.0	military	2.66666666667
+110.0	aerial warfare	2.75
+110.0	chemical warfare	2.16666666667
+110.0	strategic bombing	1.71428571429
+110.0	army	2.25
+110.0	united states army	2.0
+110.0	special forces	2.16666666667
+110.0	military aircraft	2.5
+110.0	navy	1.28571428571
+110.0	iraqi army	1.4
+110.0	nato	1.16666666667
+110.0	close air support	2.0
+110.0	air force	1.75
+110.0	united states marine corps	2.0
+110.0	armed forces	2.42857142857
+110.0	commander-in-chief	1.625
+110.0	tactical air command	2.14285714286
+110.0	military strategy	2.66666666667
+111.0	tournament	2.2
+111.0	all-star game	1.2
+111.0	ucla bruins	1.66666666667
+111.0	the first team	1.33333333333
+111.0	game	1.6
+111.0	playoffs	1.33333333333
+111.0	basketball	0.6
+111.0	played	1.71428571429
+111.0	starting lineup	0.777777777778
+111.0	football team	2.1
+111.0	oklahoma sooners	1.66666666667
+111.0	championship	2.33333333333
+111.0	head coach	1.0
+111.0	college basketball	1.57142857143
+111.0	the last game	1.6
+111.0	dallas texans (ushl)	1.0
+111.0	perfect season	1.66666666667
+111.0	exhibition game	1.85714285714
+111.0	player-coach	2.16666666667
+112.0	rainbow trout	0.4
+112.0	fish	1.66666666667
+112.0	deer	0.625
+112.0	waterfowl	1.0
+112.0	fishing	2.6
+112.0	crayfish	1.5
+112.0	salmon	1.875
+112.0	dugong	1.33333333333
+112.0	shrimp	1.33333333333
+112.0	shellfish	0.428571428571
+112.0	brackish water	0.5
+112.0	freshwater fish	2.0
+112.0	sea	1.5
+112.0	tilapia	1.0
+112.0	pelagic fish	1.3
+112.0	brown trout	1.125
+112.0	trout	2.22222222222
+112.0	turtle	1.71428571429
+112.0	mackerel	1.375
+113.0	networking	1.0
+113.0	software	2.0
+113.0	computer network	2.57142857143
+113.0	cross-platform	0.833333333333
+113.0	peer-to-peer	1.625
+113.0	intranet	1.14285714286
+113.0	computing	2.44444444444
+113.0	instant messaging	1.625
+113.0	thin client	0.857142857143
+113.0	personal computer	1.625
+113.0	computer	2.4
+113.0	web application	2.14285714286
+113.0	commercial software	2.33333333333
+113.0	cloud computing	1.85714285714
+113.0	internet	1.8
+113.0	linux	1.83333333333
+113.0	open source	2.14285714286
+113.0	operating system	2.25
+113.0	sun microsystems	0.5
+114.0	literary editor	1.88888888889
+114.0	publishing	2.71428571429
+114.0	biography	1.42857142857
+114.0	book review	2.0
+114.0	the novel	2.0
+114.0	novel	2.28571428571
+114.0	the writer	2.375
+114.0	book	2.16666666667
+114.0	writer	2.125
+114.0	novelist	2.25
+114.0	essay	2.0
+114.0	pen name	1.6
+114.0	author	1.71428571429
+114.0	literature	1.2
+114.0	non-fiction	2.0
+114.0	prose	1.83333333333
+114.0	journal	2.16666666667
+114.0	fiction	1.71428571429
+114.0	short story	1.0
+115.0	album	1.83333333333
+115.0	disco	2.16666666667
+115.0	american rock	1.875
+115.0	pop rock	2.57142857143
+115.0	pop music	2.33333333333
+115.0	british rock	1.66666666667
+115.0	discography (jill johnson album)	1.0
+115.0	maroon 5	1.6
+115.0	synthpop	1.2
+115.0	love songs (nat king cole album)	1.5
+115.0	singer-songwriter	1.85714285714
+115.0	rock music	1.57142857143
+115.0	third album	1.55555555556
+115.0	music video	1.6
+115.0	progressive rock	1.1
+115.0	cover songs	1.5
+115.0	cover version	1.66666666667
+115.0	the band	1.4
+115.0	alternative rock	1.85714285714
+116.0	troubled asset relief program	2.0
+116.0	tax rate	1.8
+116.0	government revenue	1.2
+116.0	capital gains tax	2.0
+116.0	investment	1.8
+116.0	government spending	2.5
+116.0	subsidy	1.42857142857
+116.0	student loan	1.28571428571
+116.0	tax revenue	2.125
+116.0	fiscal year	1.8
+116.0	corporate tax	1.125
+116.0	budget	2.6
+116.0	value-added tax	2.0
+116.0	tax	1.66666666667
+116.0	funding	1.83333333333
+116.0	taxpayer	2.375
+116.0	income tax	2.6
+116.0	revenue	1.71428571429
+116.0	capital expenditure	1.16666666667
+117.0	bobby labonte	1.0
+117.0	chip ganassi racing	1.66666666667
+117.0	richard childress racing	1.375
+117.0	championship	1.57142857143
+117.0	dario franchitti	1.44444444444
+117.0	juan pablo montoya	1.57142857143
+117.0	rusty wallace	1.0
+117.0	joe gibbs racing	2.55555555556
+117.0	jeff gordon	1.33333333333
+117.0	team penske	1.6
+117.0	scott dixon	1.66666666667
+117.0	camping world truck series	1.33333333333
+117.0	hendrick motorsports	1.16666666667
+117.0	scott speed	1.33333333333
+117.0	sprint cup series	1.55555555556
+117.0	milwaukee mile	0.333333333333
+117.0	marcos ambrose	1.0
+117.0	tony stewart	1.625
+117.0	dale jarrett	0.5
+118.0	florida keys	1.42857142857
+118.0	hurricane isabel	1.66666666667
+118.0	hurricane irene	2.0
+118.0	landfall	0.714285714286
+118.0	hurricane charley	2.5
+118.0	hurricane wilma	2.4
+118.0	hurricane bob (1985)	1.75
+118.0	outer banks	0.25
+118.0	hurricane georges	2.375
+118.0	hurricane andrew	2.25
+118.0	hurricane dennis (1999)	1.71428571429
+118.0	cape lookout (north carolina)	1.14285714286
+118.0	tropical storm beryl (2012)	2.0
+118.0	hurricane donna	1.8
+118.0	tropical storm debby (2012)	1.85714285714
+118.0	storm surge	1.0
+118.0	cape hatteras	0.666666666667
+118.0	florida panhandle	1.5
+118.0	hurricane bob	1.57142857143
+119.0	treason	0.666666666667
+119.0	resisting arrest	1.83333333333
+119.0	attempted murder	2.0
+119.0	false confession	1.11111111111
+119.0	murder	1.66666666667
+119.0	acquittal	1.0
+119.0	prosecutor	1.33333333333
+119.0	kidnapping	1.83333333333
+119.0	arrest	2.0
+119.0	capital murder	1.5
+119.0	bail	1.2
+119.0	manslaughter	2.375
+119.0	accomplice	1.55555555556
+119.0	suspect	1.71428571429
+119.0	indictment	1.625
+119.0	miscarriage of justice	1.5
+119.0	plea bargain	1.66666666667
+119.0	robbery	1.6
+119.0	arrest warrant	2.0
+120.0	leader of the opposition	1.83333333333
+120.0	conservatism	1.8
+120.0	national unity government	2.0
+120.0	democratic party (united states)	2.33333333333
+120.0	ruling party	1.0
+120.0	socialism	1.6
+120.0	political party	2.5
+120.0	prime minister	2.14285714286
+120.0	parliamentary leader	1.57142857143
+120.0	democratic socialism	1.85714285714
+120.0	politics	2.71428571429
+120.0	republican party (turkey)	1.57142857143
+120.0	party leader	1.0
+120.0	government	2.77777777778
+120.0	liberalism	1.42857142857
+120.0	social democracy	2.16666666667
+120.0	head of state	2.5
+120.0	national unity	1.83333333333
+120.0	coalition government	1.75
+121.0	boston university	1.6
+121.0	university	2.55555555556
+121.0	graduate	2.8
+121.0	stanford university	1.66666666667
+121.0	college	2.625
+121.0	new york university	1.4
+121.0	harvard university	2.57142857143
+121.0	graduate school	2.5
+121.0	high school	1.57142857143
+121.0	princeton university	1.6
+121.0	massachusetts institute of technology	0.857142857143
+121.0	university of michigan	1.625
+121.0	undergraduate degree	1.5
+121.0	brown university	2.0
+121.0	university of chicago	0.833333333333
+121.0	medical school	1.75
+121.0	yale university	1.42857142857
+121.0	amherst college	1.33333333333
+121.0	columbia university	1.57142857143
+122.0	haute couture	1.75
+122.0	fashion	2.75
+122.0	dress	2.5
+122.0	fashion design	3.0
+122.0	kimono	1.57142857143
+122.0	clothing	2.2
+122.0	leggings	1.5
+122.0	bodysuit	1.6
+122.0	skirt	1.66666666667
+122.0	gown	2.33333333333
+122.0	trousers	1.28571428571
+122.0	sportswear (fashion)	1.71428571429
+122.0	alexander mcqueen	0.857142857143
+122.0	french fashion	2.14285714286
+122.0	ready-to-wear	1.4
+122.0	hairstyle	1.85714285714
+122.0	costume	1.85714285714
+122.0	karl lagerfeld	2.0
+122.0	blouse	2.0
+123.0	grandchild	1.25
+123.0	girl	1.16666666667
+123.0	toddler	0.833333333333
+123.0	birth	1.57142857143
+123.0	mother	2.2
+123.0	father	1.83333333333
+123.0	sister	1.57142857143
+123.0	aunt	1.0
+123.0	ten years old	1.2
+123.0	baby sister	1.14285714286
+123.0	the baby	1.42857142857
+123.0	parenting	2.14285714286
+123.0	only child	1.5
+123.0	foster care	1.4
+123.0	child	2.0
+123.0	infant	1.0
+123.0	orphan	1.28571428571
+123.0	nanny	1.2
+123.0	boy	1.5
+124.0	only child	0.666666666667
+124.0	wife	1.42857142857
+124.0	son-in-law	1.28571428571
+124.0	husband	1.57142857143
+124.0	sister	1.28571428571
+124.0	emma (novel)	0.2
+124.0	marriage	1.77777777778
+124.0	two daughters	0.8
+124.0	grandchild	1.6
+124.0	son	1.28571428571
+124.0	cousin	1.28571428571
+124.0	sisters (tv series)	1.25
+124.0	daughter	2.22222222222
+124.0	his family	1.8
+124.0	uncle	1.0
+124.0	mother	1.88888888889
+124.0	their son	1.57142857143
+124.0	aunt	1.28571428571
+124.0	father	2.11111111111
+125.0	patio	1.22222222222
+125.0	entrance hall	1.16666666667
+125.0	panelling	1.28571428571
+125.0	wall	1.83333333333
+125.0	porch	1.14285714286
+125.0	bedroom	1.75
+125.0	roof	1.2
+125.0	kitchen	1.375
+125.0	courtyard	2.0
+125.0	door	1.7
+125.0	living room	1.4
+125.0	entryway	1.25
+125.0	balcony	1.14285714286
+125.0	floor	1.42857142857
+125.0	dining room	1.625
+125.0	basement	0.833333333333
+125.0	window	1.75
+125.0	fireplace	1.8
+125.0	the ceiling	1.1
+126.0	super middleweight	2.33333333333
+126.0	manny pacquiao	1.5
+126.0	mike tyson	1.25
+126.0	ricky hatton	1.25
+126.0	professional boxing	2.0
+126.0	welterweight	1.71428571429
+126.0	super bantamweight	1.42857142857
+126.0	juan manuel márquez	1.0
+126.0	light welterweight	1.2
+126.0	wladimir klitschko	0.857142857143
+126.0	light flyweight	1.875
+126.0	bernard hopkins	0.833333333333
+126.0	lennox lewis	1.71428571429
+126.0	roberto durán	1.57142857143
+126.0	james toney	1.4
+126.0	antonio tarver	1.0
+126.0	joe calzaghe	1.42857142857
+126.0	light middleweight	2.33333333333
+126.0	sugar ray leonard	1.88888888889
+127.0	russian civil war	1.71428571429
+127.0	chechnya	1.0
+127.0	kyrgyzstan	1.66666666667
+127.0	ukrainian navy	1.14285714286
+127.0	russo-georgian war	1.8
+127.0	aslan maskhadov	1.5
+127.0	south ossetia	0.8
+127.0	abkhazia	0.625
+127.0	dzhokhar dudayev	1.28571428571
+127.0	russia	2.0
+127.0	russian ground forces	1.8
+127.0	soviet army	1.0
+127.0	black sea fleet	1.0
+127.0	dagestan	0.5
+127.0	soviet armed forces	1.85714285714
+127.0	vladimir putin	1.5
+127.0	ingushetia	0.833333333333
+127.0	soviet union	1.66666666667
+127.0	grozny	1.0
+128.0	recital	1.6
+128.0	performing arts	2.33333333333
+128.0	opera	2.66666666667
+128.0	san francisco ballet	1.0
+128.0	music	2.2
+128.0	ballet	1.0
+128.0	contemporary dance	1.5
+128.0	new york city opera	2.0
+128.0	artistic director	2.0
+128.0	theatre	2.8
+128.0	classical music	1.6
+128.0	drama	1.5
+128.0	orchestra	1.33333333333
+128.0	musical theatre	2.4
+128.0	concerto (ballet)	1.5
+128.0	repertoire	0.857142857143
+128.0	choreography	2.375
+128.0	operetta	2.22222222222
+128.0	concert performance	2.5
+129.0	exhibition game	1.75
+129.0	perfect season	1.66666666667
+129.0	basketball	1.11111111111
+129.0	playoffs	1.83333333333
+129.0	football team	1.2
+129.0	penalty shootout	2.33333333333
+129.0	winning streak (sports)	1.55555555556
+129.0	hat-trick	1.28571428571
+129.0	ice hockey	0.75
+129.0	north american soccer league	2.0
+129.0	fifa world cup	2.25
+129.0	football	2.125
+129.0	winning goal	1.66666666667
+129.0	the first team	1.25
+129.0	penalty shoot-out (association football)	1.88888888889
+129.0	goalkeeper	1.66666666667
+129.0	association football	2.55555555556
+129.0	championship	1.42857142857
+129.0	tournament	2.0
+130.0	san diego	1.875
+130.0	san francisco bay area	2.2
+130.0	san francisco peninsula	1.66666666667
+130.0	berryessa	0.666666666667
+130.0	los angeles	1.28571428571
+130.0	san antonio	1.375
+130.0	san gabriel valley	1.77777777778
+130.0	san josé	1.28571428571
+130.0	san bernardino valley	1.33333333333
+130.0	san mateo (caltrain station)	1.66666666667
+130.0	santa ana river	1.0
+130.0	northern california	1.6
+130.0	southern california	1.71428571429
+130.0	san bernardino mountains	1.83333333333
+130.0	ventura	1.375
+130.0	sacramento valley	1.66666666667
+130.0	san joaquin valley	1.25
+130.0	san francisco	2.42857142857
+130.0	san francisco bay	2.33333333333
+131.0	qr code	1.42857142857
+131.0	gmail	1.83333333333
+131.0	mobile device	1.85714285714
+131.0	internet	1.6
+131.0	email	2.0
+131.0	upload	0.8
+131.0	fax	0.833333333333
+131.0	short message service	1.5
+131.0	modem	1.5
+131.0	text messaging	1.11111111111
+131.0	telephone number	1.71428571429
+131.0	usb	0.5
+131.0	skype	2.5
+131.0	iphone	1.4
+131.0	voice over ip	2.0
+131.0	email address	2.0
+131.0	mobile phone	2.6
+131.0	credit card	1.14285714286
+131.0	voicemail	2.0
+132.0	middle school	2.0
+132.0	graduate	2.14285714286
+132.0	early childhood education	1.71428571429
+132.0	college	1.85714285714
+132.0	high school	1.16666666667
+132.0	curriculum	2.88888888889
+132.0	graduate school	2.16666666667
+132.0	undergraduate education	2.0
+132.0	matriculation	1.0
+132.0	vocational education	2.33333333333
+132.0	private school	1.5
+132.0	master of education	0.75
+132.0	primary education	2.14285714286
+132.0	state school	2.14285714286
+132.0	secondary education	2.0
+132.0	school	2.25
+132.0	secondary school	1.33333333333
+132.0	university	2.6
+132.0	education	3.0
+133.0	horror film	1.6
+133.0	fantasy film	2.66666666667
+133.0	film adaptation	2.66666666667
+133.0	quentin tarantino	2.0
+133.0	cameo appearance	1.0
+133.0	action film	1.71428571429
+133.0	jodie foster	1.66666666667
+133.0	musical film	1.85714285714
+133.0	a movie	2.0
+133.0	martin scorsese	2.11111111111
+133.0	faye dunaway	0.8
+133.0	remake	1.44444444444
+133.0	war film	1.625
+133.0	low-budget film	1.57142857143
+133.0	mystery film	1.28571428571
+133.0	independent film	1.16666666667
+133.0	feature length	1.42857142857
+133.0	film director	2.28571428571
+133.0	film	2.0
+134.0	space research	2.66666666667
+134.0	space exploration	1.4
+134.0	space probe	2.66666666667
+134.0	spaceflight	2.0
+134.0	goddard space flight center	1.0
+134.0	space shuttle	1.6
+134.0	nasa	2.8
+134.0	spacecraft	2.0
+134.0	marshall space flight center	1.2
+134.0	human spaceflight	2.22222222222
+134.0	space station	2.5
+134.0	mars	2.0
+134.0	astrobiology	1.33333333333
+134.0	lander (spacecraft)	2.0
+134.0	moon landing	1.625
+134.0	skylab	1.5
+134.0	jaxa	0.666666666667
+134.0	european space agency	1.66666666667
+134.0	exploration of mars	1.66666666667
+135.0	point-blank range	1.25
+135.0	sniper	1.71428571429
+135.0	police	2.42857142857
+135.0	handgun	2.66666666667
+135.0	taser	0.714285714286
+135.0	revolver	1.42857142857
+135.0	attempted murder	2.0
+135.0	firearm	2.33333333333
+135.0	robbery	1.2
+135.0	shooting	2.57142857143
+135.0	at close range	1.125
+135.0	arrest	2.0
+135.0	police officer	1.5
+135.0	murder	2.42857142857
+135.0	military police (cambodian football club)	0.0
+135.0	carjacking	0.666666666667
+135.0	shootout	1.0
+135.0	stray bullet	1.28571428571
+135.0	shotgun	1.75
+136.0	percentage	2.125
+136.0	market value	2.14285714286
+136.0	total revenue	1.55555555556
+136.0	population	2.33333333333
+136.0	demand	1.42857142857
+136.0	consumer spending	1.71428571429
+136.0	inflation	2.0
+136.0	profit margin	2.0
+136.0	market share	2.33333333333
+136.0	average cost	1.33333333333
+136.0	share price	1.5
+136.0	annual growth rate	2.22222222222
+136.0	per	0.666666666667
+136.0	percentage point	1.66666666667
+136.0	average	1.66666666667
+136.0	gross domestic product	1.0
+136.0	household income	0.714285714286
+136.0	penetration rate	0.857142857143
+136.0	rate of return	1.4
+137.0	farm team	0.833333333333
+137.0	prospect (sports)	1.83333333333
+137.0	player-coach	2.0
+137.0	two seasons	0.6
+137.0	the first team	1.44444444444
+137.0	league club	1.75
+137.0	starting lineup	1.3
+137.0	salary cap	1.11111111111
+137.0	contract	2.0
+137.0	head coach	1.44444444444
+137.0	exhibition game	1.55555555556
+137.0	free agent	1.71428571429
+137.0	utility player	1.83333333333
+137.0	restricted free agent	1.0
+137.0	offer sheet	1.66666666667
+137.0	played	1.25
+137.0	signing bonus	1.4
+137.0	championship	1.375
+137.0	playoffs	1.8
+138.0	cold	0.555555555556
+138.0	rain	1.11111111111
+138.0	precipitation	1.88888888889
+138.0	deciduous	1.14285714286
+138.0	microclimate	2.0
+138.0	evaporative cooler	0.8
+138.0	cooling tower	1.33333333333
+138.0	soil	1.125
+138.0	wind	1.2
+138.0	thermal mass	1.16666666667
+138.0	heat pump	1.8
+138.0	growing season	2.0
+138.0	water vapor	1.33333333333
+138.0	heat exchanger	1.0
+138.0	nitrogen	0.6
+138.0	humidity	2.2
+138.0	subtropics	1.8
+138.0	evaporation	1.5
+138.0	water	1.85714285714
+139.0	the blackstone group	1.4
+139.0	holding company	2.14285714286
+139.0	privately held company	1.57142857143
+139.0	investment	2.0
+139.0	parent company	1.55555555556
+139.0	buyout	0.833333333333
+139.0	bain capital	1.28571428571
+139.0	corporation	1.2
+139.0	public company	2.33333333333
+139.0	chief executive officer	1.0
+139.0	financial services	2.0
+139.0	ripplewood holdings	1.0
+139.0	goldman sachs	1.33333333333
+139.0	apollo global management	1.14285714286
+139.0	business	1.85714285714
+139.0	cvc capital partners	1.33333333333
+139.0	initial public offering	1.33333333333
+139.0	joint venture	1.11111111111
+139.0	subsidiary	1.5
+140.0	steeplechase	0.8
+140.0	criterium	0.333333333333
+140.0	team time trial	0.444444444444
+140.0	individual time trial	1.11111111111
+140.0	his last race	1.0
+140.0	unisa-australia	0.166666666667
+140.0	jockey	1.0
+140.0	racing	1.83333333333
+140.0	time trial	0.666666666667
+140.0	flat racing	1.5
+140.0	motocross	1.0
+140.0	racer	2.375
+140.0	velodrome	0.833333333333
+140.0	grand national	1.0
+140.0	bradley wiggins	0.857142857143
+140.0	race track	1.8
+140.0	washington park handicap	2.0
+140.0	patrick sercu	0.666666666667
+140.0	vuelta a españa	0.5
+141.0	gender	1.2
+141.0	a woman	2.0
+141.0	sex	1.5
+141.0	girl	1.0
+141.0	transsexual	1.66666666667
+141.0	sexual intercourse	2.0
+141.0	gender role	1.83333333333
+141.0	mother	1.0
+141.0	female	1.28571428571
+141.0	premarital sex	2.33333333333
+141.0	marriage	1.33333333333
+141.0	infidelity	1.5
+141.0	homosexuality	1.66666666667
+141.0	transgender	1.5
+141.0	woman	1.75
+141.0	bisexuality	1.42857142857
+141.0	anal sex	1.8
+141.0	incest	0.857142857143
+141.0	lesbian	1.6
+142.0	urban area	1.83333333333
+142.0	central business district	1.66666666667
+142.0	residential area	1.55555555556
+142.0	residential community	2.14285714286
+142.0	downtown	1.5
+142.0	downtown cleveland	1.57142857143
+142.0	park	1.5
+142.0	on the west side	0.4
+142.0	county seat	1.6
+142.0	city	2.0
+142.0	village	1.14285714286
+142.0	suburb	1.6
+142.0	district	1.88888888889
+142.0	commercial district	1.5
+142.0	county	1.71428571429
+142.0	u.s. route 11	1.16666666667
+142.0	city limits	1.66666666667
+142.0	town	1.2
+142.0	the downtown	1.14285714286
+143.0	atherosclerosis	0.857142857143
+143.0	myocardial infarction	1.44444444444
+143.0	pulmonary artery	2.25
+143.0	ascending aorta	2.0
+143.0	aneurysm	2.2
+143.0	blood vessel	2.125
+143.0	atrial septal defect	0.857142857143
+143.0	aortic stenosis	2.42857142857
+143.0	angioplasty	1.57142857143
+143.0	stenosis	2.25
+143.0	subarachnoid hemorrhage	1.75
+143.0	aorta	2.42857142857
+143.0	aortic valve	2.0
+143.0	artery	1.6
+143.0	thrombosis	1.83333333333
+143.0	aortic aneurysm	2.0
+143.0	atrial fibrillation	1.4
+143.0	aortic dissection	1.5
+143.0	ischemia	1.44444444444
+144.0	chemotherapy	1.66666666667
+144.0	endometrial cancer	1.0
+144.0	radiation therapy	2.28571428571
+144.0	carcinoma	2.5
+144.0	metastasis	1.625
+144.0	prostate	1.875
+144.0	prostate cancer	1.57142857143
+144.0	renal cell carcinoma	1.25
+144.0	breast cancer	2.44444444444
+144.0	cancer	1.83333333333
+144.0	neuroblastoma	1.57142857143
+144.0	ovarian cancer	1.42857142857
+144.0	hepatocellular carcinoma	0.8
+144.0	colorectal cancer	2.2
+144.0	sarcoma	1.4
+144.0	melanoma	2.44444444444
+144.0	adenocarcinoma	1.375
+144.0	lymphoma	2.6
+144.0	pancreatic cancer	1.8
+145.0	inflammation	2.0
+145.0	chronic obstructive pulmonary disease	1.9
+145.0	rheumatoid arthritis	0.777777777778
+145.0	bronchiectasis	1.33333333333
+145.0	hypertension	1.14285714286
+145.0	sepsis	1.75
+145.0	sarcoidosis	1.16666666667
+145.0	pulmonary hypertension	1.4
+145.0	sinusitis	1.11111111111
+145.0	infection	2.0
+145.0	ulcerative colitis	1.33333333333
+145.0	atherosclerosis	1.33333333333
+145.0	asthma	2.71428571429
+145.0	pancreatitis	0.9
+145.0	cirrhosis	1.4
+145.0	respiratory tract	1.85714285714
+145.0	pneumonia	1.0
+145.0	myocardial infarction	1.0
+145.0	cough	2.14285714286
+146.0	t cell	2.28571428571
+146.0	cd4	0.666666666667
+146.0	autoimmunity	1.5
+146.0	b cell	1.625
+146.0	tyrosine kinase	0.833333333333
+146.0	antibody	0.833333333333
+146.0	nf-κb	0.666666666667
+146.0	mast cell	2.44444444444
+146.0	microglia	1.0
+146.0	immune system	2.28571428571
+146.0	lymphocyte	1.83333333333
+146.0	interferon	1.71428571429
+146.0	toll-like receptor	0.857142857143
+146.0	macrophage	1.625
+146.0	dendritic cell	1.16666666667
+146.0	adaptive immune system	1.4
+146.0	innate immune system	2.28571428571
+146.0	apoptosis	1.66666666667
+146.0	cytokine	2.0
+147.0	protein kinase c	2.125
+147.0	dephosphorylation	1.25
+147.0	actin	1.16666666667
+147.0	t cell	1.625
+147.0	transcription factor	0.857142857143
+147.0	g protein	1.66666666667
+147.0	wnt signaling pathway	2.0
+147.0	cell signaling	2.33333333333
+147.0	reactive oxygen species	1.14285714286
+147.0	mitogen-activated protein kinase	1.2
+147.0	nf-κb	0.888888888889
+147.0	signal transduction	1.875
+147.0	gene expression	1.0
+147.0	tyrosine kinase	1.83333333333
+147.0	kinase	2.0
+147.0	apoptosis	1.0
+147.0	protein kinase	2.16666666667
+147.0	tyrosine phosphorylation	1.16666666667
+147.0	phosphorylation	1.5
+148.0	anemia	2.0
+148.0	cholesterol	1.0
+148.0	bile acid	1.2
+148.0	pulmonary hypertension	1.0
+148.0	kidney	1.125
+148.0	liver disease	2.0
+148.0	colorectal cancer	1.0
+148.0	inflammation	1.5
+148.0	cholangiocarcinoma	1.33333333333
+148.0	atherosclerosis	1.14285714286
+148.0	liver	2.83333333333
+148.0	sarcoidosis	1.75
+148.0	thyroid	1.5
+148.0	pancreatitis	2.33333333333
+148.0	cirrhosis	1.57142857143
+148.0	jaundice	2.33333333333
+148.0	hepatitis	2.0
+148.0	pancreas	1.66666666667
+148.0	hepatocellular carcinoma	2.0
+149.0	hiv/aids	2.5
+149.0	hepatitis c	1.33333333333
+149.0	immune system	1.33333333333
+149.0	herpes simplex virus	1.2
+149.0	hepatitis a	1.0
+149.0	poliovirus	1.8
+149.0	hepatitis c virus	2.0
+149.0	hepatitis	1.66666666667
+149.0	influenza	1.22222222222
+149.0	immunodeficiency	2.0
+149.0	virus	2.44444444444
+149.0	herpes simplex	0.833333333333
+149.0	vaccine	1.66666666667
+149.0	human papillomavirus	0.333333333333
+149.0	hepatitis b	2.57142857143
+149.0	hiv	3.0
+149.0	pathogen	1.16666666667
+149.0	retrovirus	1.66666666667
+149.0	infection	1.85714285714
+150.0	serotonin	1.0
+150.0	estrogen receptor	2.22222222222
+150.0	hypothyroidism	1.42857142857
+150.0	luteinizing hormone	2.0
+150.0	estradiol	1.6
+150.0	hormone	2.44444444444
+150.0	testosterone	2.44444444444
+150.0	prolactin	2.0
+150.0	aldosterone	1.0
+150.0	hypothalamus	1.5
+150.0	thyroid hormone	1.71428571429
+150.0	androgen	1.875
+150.0	progesterone	1.16666666667
+150.0	adrenal gland	1.66666666667
+150.0	estrogen	2.16666666667
+150.0	cortisol	2.0
+150.0	dihydrotestosterone	1.75
+150.0	glucocorticoid	1.2
+150.0	androgen receptor	1.33333333333
+151.0	glutamate receptor	1.83333333333
+151.0	cholinergic	1.2
+151.0	synaptic plasticity	0.666666666667
+151.0	microglia	0.75
+151.0	neuron	2.16666666667
+151.0	reuptake	1.125
+151.0	endocannabinoid system	1.125
+151.0	norepinephrine	0.8
+151.0	dopamine	2.5
+151.0	neurotransmitter	1.83333333333
+151.0	gabaa receptor	2.14285714286
+151.0	long-term potentiation	1.0
+151.0	glutamatergic	1.42857142857
+151.0	serotonin	1.2
+151.0	acetylcholine	1.6
+151.0	brain-derived neurotrophic factor	1.85714285714
+151.0	dopaminergic	2.0
+151.0	nmda receptor	2.16666666667
+151.0	serotonergic	1.0
+152.0	vaccine	2.5
+152.0	human papillomavirus	2.16666666667
+152.0	vaccinia	1.5
+152.0	japanese encephalitis	0.714285714286
+152.0	poliovirus	1.57142857143
+152.0	rabies	1.14285714286
+152.0	pathogen	1.14285714286
+152.0	influenza a virus	3.0
+152.0	virus	2.5
+152.0	hiv	0.666666666667
+152.0	influenza	2.71428571429
+152.0	immune system	1.8
+152.0	herpes simplex virus	1.6
+152.0	infection	2.28571428571
+152.0	vaccination	1.25
+152.0	influenza vaccine	2.33333333333
+152.0	herpes simplex	1.2
+152.0	hepatitis b	1.0
+152.0	measles	1.44444444444
+153.0	aphasia	1.33333333333
+153.0	bipolar disorder	2.0
+153.0	psychosis	1.5
+153.0	epilepsy	1.5
+153.0	fibromyalgia	1.71428571429
+153.0	attention deficit hyperactivity disorder	2.16666666667
+153.0	traumatic brain injury	2.0
+153.0	multiple sclerosis	2.0
+153.0	dementia	1.77777777778
+153.0	autism	1.85714285714
+153.0	brain damage	2.14285714286
+153.0	major depressive disorder	2.2
+153.0	ataxia	1.6
+153.0	amyotrophic lateral sclerosis	1.5
+153.0	neurodegeneration	1.6
+153.0	schizophrenia	2.28571428571
+153.0	vascular dementia	2.25
+153.0	neurological disorder	2.66666666667
+153.0	autism spectrum	1.375
+154.0	thrombosis	1.33333333333
+154.0	hypertension	1.88888888889
+154.0	diabetes mellitus	1.66666666667
+154.0	cirrhosis	1.28571428571
+154.0	liver	1.5
+154.0	myocardial infarction	0.8
+154.0	renal failure	1.42857142857
+154.0	anemia	1.83333333333
+154.0	hypothyroidism	1.8
+154.0	pancreatitis	1.5
+154.0	ischemia	2.0
+154.0	pulmonary hypertension	2.0
+154.0	sepsis	1.0
+154.0	atherosclerosis	1.57142857143
+154.0	nephrotic syndrome	2.125
+154.0	chronic kidney disease	2.8
+154.0	osteoporosis	1.125
+154.0	kidney	2.14285714286
+154.0	hepatorenal syndrome	1.88888888889
+155.0	pseudomonas aeruginosa	1.33333333333
+155.0	streptococcus pneumoniae	1.75
+155.0	streptococcus	2.42857142857
+155.0	bacteremia	0.666666666667
+155.0	infection	2.0
+155.0	bacteria	1.6
+155.0	staphylococcus aureus	2.66666666667
+155.0	pathogen	1.8
+155.0	escherichia coli	1.25
+155.0	mycobacterium tuberculosis	1.14285714286
+155.0	salmonella	1.875
+155.0	antibiotics	2.2
+155.0	pathogenic bacteria	2.28571428571
+155.0	haemophilus influenzae	1.0
+155.0	vancomycin	1.625
+155.0	immune system	1.4
+155.0	listeria monocytogenes	1.2
+155.0	antimicrobial	1.85714285714
+155.0	helicobacter pylori	1.0
+156.0	hypoglycemia	2.0
+156.0	diabetes mellitus type 2	1.57142857143
+156.0	leptin	1.16666666667
+156.0	diabetes mellitus	2.28571428571
+156.0	fructose	1.42857142857
+156.0	c-reactive protein	1.16666666667
+156.0	insulin (medication)	2.85714285714
+156.0	blood sugar	2.42857142857
+156.0	hyperlipidemia	1.42857142857
+156.0	metabolism	1.375
+156.0	lipid	2.0
+156.0	high-density lipoprotein	1.44444444444
+156.0	hyperglycemia	2.0
+156.0	insulin resistance	2.125
+156.0	hypertension	1.42857142857
+156.0	atherosclerosis	0.666666666667
+156.0	cholesterol	1.33333333333
+156.0	hypercholesterolemia	1.71428571429
+156.0	metabolic syndrome	1.66666666667
+157.0	extracellular matrix	1.5
+157.0	nf-κb	0.857142857143
+157.0	apoptosis	1.25
+157.0	angiogenesis	1.14285714286
+157.0	t cell	1.88888888889
+157.0	interleukin 6	0.75
+157.0	immune system	1.83333333333
+157.0	glucocorticoid	0.333333333333
+157.0	reactive oxygen species	1.14285714286
+157.0	signal transduction	0.5
+157.0	inflammation	2.14285714286
+157.0	endothelium	2.0
+157.0	mast cell	1.66666666667
+157.0	oxidative stress	1.25
+157.0	microglia	1.71428571429
+157.0	tumor microenvironment	2.0
+157.0	cytokine	1.66666666667
+157.0	e-selectin	1.75
+157.0	macrophage	1.33333333333
+158.0	schizoaffective disorder	2.33333333333
+158.0	dementia	1.66666666667
+158.0	psychosis	2.33333333333
+158.0	social anxiety disorder	2.14285714286
+158.0	mental disorder	2.83333333333
+158.0	anxiety disorder	1.25
+158.0	panic disorder	1.83333333333
+158.0	dysthymia	1.14285714286
+158.0	schizophrenia	0.833333333333
+158.0	insomnia	1.375
+158.0	borderline personality disorder	2.0
+158.0	posttraumatic stress disorder	2.11111111111
+158.0	attention deficit hyperactivity disorder	1.5
+158.0	fibromyalgia	1.57142857143
+158.0	generalized anxiety disorder	1.71428571429
+158.0	major depressive disorder	1.57142857143
+158.0	bipolar disorder	2.5
+158.0	chronic pain	1.5
+158.0	mood disorder	2.6
+159.0	implantation (human embryo)	0.833333333333
+159.0	reproductive system	2.25
+159.0	uterus	2.5
+159.0	endometrium	1.6
+159.0	sexual reproduction	2.57142857143
+159.0	oocyte	2.4
+159.0	ovarian follicle	1.85714285714
+159.0	oogenesis	1.0
+159.0	ovary	1.6
+159.0	sperm	2.75
+159.0	blastocyst	2.33333333333
+159.0	fertilisation	1.33333333333
+159.0	ovulation	2.4
+159.0	spermatogenesis	2.0
+159.0	germ cell	1.28571428571
+159.0	mammary gland	1.25
+159.0	zygote	2.125
+159.0	menstrual cycle	0.8
+159.0	embryo	2.25
+160.0	aorta	2.0
+160.0	aortic stenosis	1.8
+160.0	myocardial infarction	1.66666666667
+160.0	pulmonary artery	1.75
+160.0	pulmonary hypertension	0.714285714286
+160.0	mitral valve	2.125
+160.0	atrial fibrillation	1.5
+160.0	aortic dissection	0.8
+160.0	ventricular fibrillation	2.5
+160.0	aortic valve	2.44444444444
+160.0	ischemia	2.0
+160.0	heart failure	2.0
+160.0	thrombosis	0.857142857143
+160.0	cardiogenic shock	1.66666666667
+160.0	cardiomyopathy	1.66666666667
+160.0	hypertrophic cardiomyopathy	1.8
+160.0	cardiac arrhythmia	2.14285714286
+160.0	cardiac output	1.83333333333
+160.0	atrial septal defect	1.57142857143
+161.0	dna methylation	2.4
+161.0	dna repair	2.33333333333
+161.0	dna polymerase	1.66666666667
+161.0	alternative splicing	1.0
+161.0	homologous recombination	1.83333333333
+161.0	dna	2.11111111111
+161.0	transcription factor	1.0
+161.0	telomerase	1.28571428571
+161.0	cell cycle	2.0
+161.0	helicase	1.33333333333
+161.0	heterochromatin	1.75
+161.0	gene expression	1.44444444444
+161.0	intron	1.375
+161.0	rna	2.0
+161.0	dna replication	2.71428571429
+161.0	gene	2.0
+161.0	telomere	0.714285714286
+161.0	chromatin	1.0
+161.0	microrna	1.16666666667
+162.0	colorectal cancer	2.6
+162.0	renal cell carcinoma	2.0
+162.0	malignancy	2.14285714286
+162.0	chemotherapy	2.66666666667
+162.0	adenocarcinoma	2.66666666667
+162.0	ovarian cancer	1.85714285714
+162.0	prostate cancer	2.4
+162.0	metastasis	2.57142857143
+162.0	carcinogenesis	2.85714285714
+162.0	lymphoma	2.0
+162.0	endometrial cancer	1.85714285714
+162.0	hepatocellular carcinoma	2.2
+162.0	neuroblastoma	1.5
+162.0	carcinoma	3.0
+162.0	neoplasm	1.8
+162.0	glioma	1.28571428571
+162.0	melanoma	1.85714285714
+162.0	angiogenesis	1.42857142857
+162.0	apoptosis	0.666666666667
+163.0	pathogenic bacteria	2.375
+163.0	bacteria	2.0
+163.0	pseudomonas aeruginosa	1.25
+163.0	candida albicans	1.25
+163.0	pseudomonas	2.0
+163.0	staphylococcus	1.88888888889
+163.0	microorganism	2.28571428571
+163.0	staphylococcus aureus	2.0
+163.0	archaea	1.8
+163.0	enterobacteriaceae	1.71428571429
+163.0	lipopolysaccharide	1.28571428571
+163.0	haemophilus influenzae	1.77777777778
+163.0	gram-negative bacteria	1.85714285714
+163.0	mycobacterium tuberculosis	1.25
+163.0	bacillus subtilis	1.8
+163.0	escherichia coli (molecular biology)	1.25
+163.0	salmonella	1.5
+163.0	escherichia coli	1.71428571429
+163.0	listeria monocytogenes	1.2
+164.0	biosensor	1.85714285714
+164.0	microscopy	1.66666666667
+164.0	flow cytometry	1.42857142857
+164.0	antibody	1.57142857143
+164.0	gene expression	1.6
+164.0	fluorescence in situ hybridization	1.75
+164.0	fluorescence	1.33333333333
+164.0	assay	1.5
+164.0	immunohistochemistry	2.14285714286
+164.0	biomarker (medicine)	1.25
+164.0	biomarker	1.44444444444
+164.0	mass spectrometry	1.33333333333
+164.0	protein	0.8
+164.0	western blot	1.0
+164.0	immunoprecipitation	1.75
+164.0	immunofluorescence	2.0
+164.0	in situ hybridization	1.28571428571
+164.0	proteomics	0.75
+164.0	nanoparticle	1.0
+165.0	medical diagnosis	2.2
+165.0	renal cell carcinoma	1.2
+165.0	infection	2.33333333333
+165.0	hepatocellular carcinoma	1.0
+165.0	diagnostic test	1.6
+165.0	chemotherapy	1.85714285714
+165.0	biomarker (medicine)	1.57142857143
+165.0	biomarker	1.16666666667
+165.0	comorbidity	0.75
+165.0	immunohistochemistry	1.28571428571
+165.0	eosinophilia	1.28571428571
+165.0	systemic lupus erythematosus	1.375
+165.0	skin biopsy	2.16666666667
+165.0	pathology	1.83333333333
+165.0	diagnosis	2.8
+165.0	asymptomatic	1.4
+165.0	biopsy	2.33333333333
+165.0	hyperthyroidism	1.16666666667
+165.0	differential diagnosis	1.4
+166.0	ovarian cancer	1.0
+166.0	bone marrow	1.25
+166.0	hematopoietic stem cell transplantation	2.0
+166.0	breast cancer	1.2
+166.0	leukemia	2.42857142857
+166.0	lung transplantation	1.5
+166.0	immunosuppression	1.66666666667
+166.0	kidney transplantation	2.0
+166.0	lymphoma	1.6
+166.0	sepsis	1.28571428571
+166.0	aplastic anemia	1.28571428571
+166.0	chemotherapy	1.16666666667
+166.0	cancer	2.28571428571
+166.0	radiation therapy	2.0
+166.0	multiple myeloma	1.57142857143
+166.0	prostate cancer	1.5
+166.0	neuroblastoma	1.4
+166.0	organ transplantation	2.0
+166.0	liver transplantation	2.0
+167.0	saturated fat	1.4
+167.0	weight loss	2.0
+167.0	nutrition	2.25
+167.0	multivitamin	1.4
+167.0	b vitamins	2.0
+167.0	niacin	1.28571428571
+167.0	vitamin a	1.5
+167.0	vitamin d	1.33333333333
+167.0	eating	1.83333333333
+167.0	vitamin c	1.66666666667
+167.0	malnutrition	1.55555555556
+167.0	fish oil	1.0
+167.0	healthy diet	2.33333333333
+167.0	low-carbohydrate diet	1.85714285714
+167.0	dietary fiber	2.0
+167.0	folic acid	2.0
+167.0	glycemic index	1.0
+167.0	vitamin b12	2.11111111111
+167.0	dietary supplement	2.375
+168.0	ion source	0.833333333333
+168.0	matrix-assisted laser desorption/ionization	1.5
+168.0	infrared spectroscopy	1.16666666667
+168.0	raman spectroscopy	1.33333333333
+168.0	absorption spectroscopy	1.75
+168.0	nuclear magnetic resonance	2.25
+168.0	column chromatography	1.77777777778
+168.0	tandem mass spectrometry	1.33333333333
+168.0	chromatography	2.0
+168.0	gas chromatography	1.88888888889
+168.0	gel electrophoresis	1.0
+168.0	mass spectrometry	1.8
+168.0	protein purification	1.125
+168.0	analytical chemistry	1.5
+168.0	elemental analysis	1.55555555556
+168.0	elution	1.2
+168.0	solubility	2.0
+168.0	adsorption	0.833333333333
+168.0	high-performance liquid chromatography	2.28571428571
+169.0	angiogenesis	1.5
+169.0	fibroblast	1.0
+169.0	epithelium	1.375
+169.0	cellular differentiation	2.14285714286
+169.0	apoptosis	1.375
+169.0	wound healing	0.75
+169.0	autophagy	2.0
+169.0	cell culture	2.4
+169.0	macrophage	1.33333333333
+169.0	microglia	1.66666666667
+169.0	cell migration	1.33333333333
+169.0	mammary gland	1.125
+169.0	cell signaling	1.83333333333
+169.0	immune system	1.2
+169.0	t cell	1.71428571429
+169.0	programmed cell death	1.5
+169.0	extracellular matrix	1.83333333333
+169.0	cell growth	2.375
+169.0	perlecan	1.6
+170.0	nuclear magnetic resonance	2.0
+170.0	x-ray	1.5
+170.0	transmission electron microscopy	1.375
+170.0	mass spectrometry	1.2
+170.0	ultrasound	2.125
+170.0	tomography	2.2
+170.0	microscopy	0.8
+170.0	diffusion mri	1.66666666667
+170.0	atomic force microscopy	1.11111111111
+170.0	anisotropy	1.28571428571
+170.0	optical coherence tomography	2.125
+170.0	magnetic resonance imaging	1.9
+170.0	positron emission tomography	1.4
+170.0	neuroimaging	1.8
+170.0	ct scan	0.666666666667
+170.0	electroencephalography	1.83333333333
+170.0	raman spectroscopy	1.16666666667
+170.0	medical imaging	2.625
+170.0	functional magnetic resonance imaging	1.5
+171.0	avascular necrosis	1.28571428571
+171.0	osteoarthritis	1.6
+171.0	osteoclast	1.33333333333
+171.0	osteoporosis	2.375
+171.0	calcification	2.0
+171.0	fibrosis	1.42857142857
+171.0	extracellular matrix	1.4
+171.0	cartilage	1.85714285714
+171.0	bone tissue	2.66666666667
+171.0	bone fracture	1.5
+171.0	intervertebral disc	1.33333333333
+171.0	osteoblast	1.14285714286
+171.0	tendon	0.888888888889
+171.0	soft tissue	1.75
+171.0	bone	1.4
+171.0	inflammation	1.4
+171.0	collagen	2.2
+171.0	connective tissue	1.71428571429
+171.0	bone resorption	1.8
+172.0	glutathione	0.6
+172.0	hydrolysis	0.8
+172.0	nitric oxide	1.14285714286
+172.0	oxidative stress	2.14285714286
+172.0	bacteria	1.33333333333
+172.0	reactive oxygen species	2.0
+172.0	lipid	1.28571428571
+172.0	superoxide dismutase	1.66666666667
+172.0	enzyme	1.2
+172.0	superoxide	1.2
+172.0	antioxidant	2.71428571429
+172.0	hemoglobin	1.85714285714
+172.0	glycolysis	1.33333333333
+172.0	metabolism	1.71428571429
+172.0	phenols	1.0
+172.0	cysteine	1.5
+172.0	oxidative phosphorylation	2.0
+172.0	amino acid	1.5
+172.0	cytochrome p450	1.33333333333
+173.0	non-coding rna	1.0
+173.0	gene expression	2.14285714286
+173.0	transcription factor	1.8
+173.0	microrna	1.28571428571
+173.0	kinase	1.0
+173.0	gene	2.0
+173.0	dna methylation	1.71428571429
+173.0	dna repair	1.88888888889
+173.0	nf-κb	0.833333333333
+173.0	repressor	1.6
+173.0	p53	0.6
+173.0	signal transduction	1.28571428571
+173.0	messenger rna	1.625
+173.0	transactivation	1.5
+173.0	alternative splicing	1.0
+173.0	long non-coding rna	0.833333333333
+173.0	transcriptional regulation	1.33333333333
+173.0	gene silencing	1.0
+173.0	gene product	2.22222222222
+174.0	multiple myeloma	1.66666666667
+174.0	ulcerative colitis	1.5
+174.0	brachytherapy	1.8
+174.0	prostate	1.14285714286
+174.0	colorectal cancer	1.5
+174.0	radiation therapy	2.57142857143
+174.0	cancer	2.33333333333
+174.0	leukemia	0.833333333333
+174.0	endometrial cancer	1.66666666667
+174.0	thyroid	0.833333333333
+174.0	hepatocellular carcinoma	1.33333333333
+174.0	prostate cancer	1.28571428571
+174.0	pancreas	1.6
+174.0	breast cancer	1.4
+174.0	chemotherapy	2.0
+174.0	melanoma	1.16666666667
+174.0	lymphoma	1.44444444444
+174.0	ovarian cancer	1.66666666667
+174.0	pancreatic cancer	1.71428571429
+175.0	optic nerve	2.75
+175.0	refractive error	1.42857142857
+175.0	eye	2.33333333333
+175.0	optic disc	1.75
+175.0	keratoconus	1.5
+175.0	glaucoma	2.33333333333
+175.0	astigmatism	1.33333333333
+175.0	strabismus	1.71428571429
+175.0	visual acuity	2.22222222222
+175.0	retina	1.77777777778
+175.0	diabetic retinopathy	1.25
+175.0	intraocular pressure	1.75
+175.0	myopia	1.5
+175.0	astigmatism (eye)	2.5
+175.0	keratitis	0.714285714286
+175.0	human eye	2.33333333333
+175.0	visual field	1.66666666667
+175.0	cornea	1.6
+175.0	visual system	2.14285714286
+176.0	protease	1.5
+176.0	glycosylation	1.5
+176.0	ubiquitin	0.857142857143
+176.0	cysteine	0.5
+176.0	protein structure	2.8
+176.0	enzyme	1.875
+176.0	actin	1.75
+176.0	amino acid	2.16666666667
+176.0	protein	2.33333333333
+176.0	disulfide	1.0
+176.0	active site	1.55555555556
+176.0	c-terminus	2.0
+176.0	ligand	0.3
+176.0	binding site	1.0
+176.0	protein domain	2.16666666667
+176.0	hydrolysis	1.83333333333
+176.0	proteolysis	1.33333333333
+176.0	transcription factor	1.66666666667
+176.0	acetylation	0.857142857143
+177.0	polymorphism (biology)	1.42857142857
+177.0	phenotype	2.0
+177.0	allele	1.83333333333
+177.0	chromosome	1.57142857143
+177.0	linkage disequilibrium	1.71428571429
+177.0	genotype	1.4
+177.0	dna methylation	1.75
+177.0	haplotype	1.2
+177.0	human genome	2.28571428571
+177.0	single-nucleotide polymorphism	1.33333333333
+177.0	mutation	2.5
+177.0	mitochondrial dna	1.71428571429
+177.0	genetics	2.5
+177.0	chromosome 7 (human)	2.0
+177.0	point mutation	2.0
+177.0	genetic association	2.0
+177.0	genetic variation	2.75
+177.0	gene	1.8
+177.0	y chromosome	2.0
+178.0	miscarriage	1.33333333333
+178.0	infertility	1.33333333333
+178.0	infant	1.5
+178.0	prenatal care	2.16666666667
+178.0	stillbirth	1.66666666667
+178.0	ectopic pregnancy	1.2
+178.0	pre-eclampsia	1.4
+178.0	fetus	2.55555555556
+178.0	infant mortality	2.33333333333
+178.0	pregnancy	1.85714285714
+178.0	childbirth	2.11111111111
+178.0	preterm birth	2.71428571429
+178.0	maternal health	2.55555555556
+178.0	placental abruption	1.33333333333
+178.0	caesarean section	1.75
+178.0	birth	2.57142857143
+178.0	low birth weight	1.16666666667
+178.0	gestational age	1.375
+178.0	breastfeeding	1.33333333333
+179.0	revascularization	1.14285714286
+179.0	elective surgery	2.14285714286
+179.0	local anesthesia	2.125
+179.0	abdominal surgery	1.33333333333
+179.0	intubation	2.0
+179.0	general anaesthesia	1.25
+179.0	liver transplantation	1.85714285714
+179.0	breast surgery	1.2
+179.0	cholecystectomy	1.14285714286
+179.0	chemotherapy	1.33333333333
+179.0	hemodialysis	1.2
+179.0	neurosurgery	1.66666666667
+179.0	bowel resection	1.33333333333
+179.0	colonoscopy	1.71428571429
+179.0	radiation therapy	1.375
+179.0	hysterectomy	1.28571428571
+179.0	pneumonectomy	1.44444444444
+179.0	medical procedure	0.75
+179.0	surgery	2.5
+180.0	shoulder	0.857142857143
+180.0	thigh	1.42857142857
+180.0	knee	2.0
+180.0	lateral meniscus	2.25
+180.0	calcaneus	1.57142857143
+180.0	ankle	2.33333333333
+180.0	rotator cuff	0.833333333333
+180.0	biceps	1.22222222222
+180.0	shoulder joint	1.5
+180.0	wrist	1.0
+180.0	ligament	1.85714285714
+180.0	tibia	2.25
+180.0	clavicle	0.8
+180.0	femur	1.625
+180.0	elbow	1.14285714286
+180.0	forearm	0.6
+180.0	pelvis	0.833333333333
+180.0	medial collateral ligament	1.875
+180.0	anterior cruciate ligament	1.28571428571
+181.0	bupropion	1.0
+181.0	adjuvant therapy	2.0
+181.0	patient safety	1.71428571429
+181.0	clinical trial	1.2
+181.0	cognitive behavioral therapy	1.0
+181.0	chemotherapy	2.14285714286
+181.0	electroconvulsive therapy	1.5
+181.0	clinical research	2.77777777778
+181.0	pharmacotherapy	2.33333333333
+181.0	hormone replacement therapy (menopause)	1.375
+181.0	therapy	2.28571428571
+181.0	antidepressant	1.375
+181.0	clozapine	1.42857142857
+181.0	comorbidity	1.57142857143
+181.0	palliative care	1.83333333333
+181.0	major depressive disorder	1.57142857143
+181.0	antipsychotic	1.0
+181.0	pain management	1.8
+181.0	exacerbation	0.857142857143
+182.0	concussion	2.125
+182.0	traumatic brain injury	2.57142857143
+182.0	intracranial pressure	1.83333333333
+182.0	central nervous system	1.55555555556
+182.0	head injury	2.5
+182.0	cerebellum	1.33333333333
+182.0	nervous system	2.0
+182.0	aneurysm	0.833333333333
+182.0	spinal cord injury	2.0
+182.0	optic nerve	1.14285714286
+182.0	brain injury	2.375
+182.0	brain	2.2
+182.0	brainstem	1.33333333333
+182.0	brain damage	2.8
+182.0	nerve	1.375
+182.0	paralysis	1.33333333333
+182.0	spinal cord	0.833333333333
+182.0	brain herniation	1.2
+182.0	subdural hematoma	1.6
+183.0	major depressive disorder	1.88888888889
+183.0	epilepsy	1.0
+183.0	fibromyalgia	1.625
+183.0	hypothyroidism	1.44444444444
+183.0	systemic lupus erythematosus	1.875
+183.0	mental disorder	2.0
+183.0	asymptomatic	1.33333333333
+183.0	symptom	2.125
+183.0	hyperthyroidism	1.14285714286
+183.0	rheumatoid arthritis	1.25
+183.0	sarcoidosis	1.57142857143
+183.0	peripheral neuropathy	1.28571428571
+183.0	genetic disorder	1.75
+183.0	anemia	1.25
+183.0	schizophrenia	1.66666666667
+183.0	dementia	1.5
+183.0	differential diagnosis	2.0
+183.0	comorbidity	1.55555555556
+183.0	psychosis	2.0
+184.0	motor neuron	2.5
+184.0	neuron	1.4
+184.0	dopamine	1.5
+184.0	stimulation	1.85714285714
+184.0	membrane potential	2.0
+184.0	stimulus (physiology)	2.55555555556
+184.0	olfactory bulb	1.0
+184.0	synaptic plasticity	1.33333333333
+184.0	depolarization	1.42857142857
+184.0	nociception	1.7
+184.0	sympathetic nervous system	2.42857142857
+184.0	brain	1.8
+184.0	action potential	1.16666666667
+184.0	autonomic nervous system	1.4
+184.0	neurotransmitter	1.66666666667
+184.0	arousal	1.57142857143
+184.0	acetylcholine	1.75
+184.0	central nervous system	2.125
+184.0	nervous system	2.625
+185.0	sweet potato	1.33333333333
+185.0	barley	1.14285714286
+185.0	sorghum	1.375
+185.0	endosperm	1.0
+185.0	cabbage	1.5
+185.0	potato	0.8
+185.0	legume	1.16666666667
+185.0	germination	1.85714285714
+185.0	rice	1.14285714286
+185.0	maize	1.71428571429
+185.0	tuber	0.833333333333
+185.0	wheat	1.66666666667
+185.0	fruit	1.0
+185.0	crop	2.0
+185.0	cassava	0.833333333333
+185.0	soybean	0.857142857143
+185.0	tomato	1.0
+185.0	vegetable	1.66666666667
+185.0	seedling	2.5
+186.0	silicon	2.33333333333
+186.0	nanomaterials	1.75
+186.0	nanowire	1.75
+186.0	nanoparticle	2.0
+186.0	graphene	2.0
+186.0	sol-gel	1.57142857143
+186.0	lipid bilayer	0.8
+186.0	cathode	0.833333333333
+186.0	biosensor	1.0
+186.0	quantum dot	1.0
+186.0	silicon dioxide	1.0
+186.0	polymer	1.14285714286
+186.0	thin film	1.16666666667
+186.0	carbon nanotube	2.28571428571
+186.0	activated carbon	1.66666666667
+186.0	adsorption	1.16666666667
+186.0	sintering	0.857142857143
+186.0	anode	1.71428571429
+186.0	plasma (physics)	1.0
+187.0	metabolite	1.28571428571
+187.0	ferulic acid	0.714285714286
+187.0	hydrolysis	1.85714285714
+187.0	phenols	1.33333333333
+187.0	neurotoxin	1.16666666667
+187.0	enzyme	1.16666666667
+187.0	enzyme inhibitor	2.42857142857
+187.0	pyridine	0.571428571429
+187.0	antioxidant	1.125
+187.0	metabolism	1.6
+187.0	natural product	0.833333333333
+187.0	cannabinoid	0.833333333333
+187.0	nitric oxide	1.5
+187.0	glutathione	1.14285714286
+187.0	anti-inflammatory	0.833333333333
+187.0	berberine	1.0
+187.0	dopamine	2.0
+187.0	serotonin	1.16666666667
+187.0	cytochrome p450	2.33333333333
+188.0	human genome	2.3
+188.0	gene	2.0
+188.0	alternative splicing	1.33333333333
+188.0	rna	1.625
+188.0	long non-coding rna	1.625
+188.0	microrna	1.28571428571
+188.0	dna methylation	2.0
+188.0	genomic dna	2.0
+188.0	encode	1.0
+188.0	messenger rna	1.66666666667
+188.0	gene product	2.1
+188.0	protein	2.0
+188.0	rna-seq	1.33333333333
+188.0	dna repair	1.28571428571
+188.0	transcriptome	1.42857142857
+188.0	intron	1.0
+188.0	gene expression	2.16666666667
+188.0	transcription factor	1.66666666667
+188.0	non-coding rna	2.0
+189.0	genetic analysis	2.28571428571
+189.0	phylogeography	2.25
+189.0	comparative genomics	1.66666666667
+189.0	mitochondrial dna	2.0
+189.0	organism	0.75
+189.0	eukaryote	2.0
+189.0	speciation	1.33333333333
+189.0	genetics	1.66666666667
+189.0	dna sequencing	1.25
+189.0	genetic variation	1.71428571429
+189.0	archaea	0.8
+189.0	population genetics	2.25
+189.0	genome size	2.11111111111
+189.0	genome	1.85714285714
+189.0	genetic diversity	1.8
+189.0	species complex	2.14285714286
+189.0	phylogenetics	2.375
+189.0	mutation	2.0
+189.0	human genome	1.66666666667
+190.0	transcription factor	0.75
+190.0	microtubule	1.42857142857
+190.0	actin	1.25
+190.0	cell migration	1.4
+190.0	cell membrane	2.2
+190.0	extracellular	1.28571428571
+190.0	cytosol	1.22222222222
+190.0	apoptosis	0.8
+190.0	reactive oxygen species	1.5
+190.0	cell signaling	0.6
+190.0	extracellular matrix	1.28571428571
+190.0	cell growth	1.0
+190.0	intracellular	1.5
+190.0	signal transduction	1.125
+190.0	gene expression	1.66666666667
+190.0	mitochondrion	2.4
+190.0	endoplasmic reticulum	1.75
+190.0	lipid bilayer	2.0
+190.0	lipid	1.71428571429
+191.0	hypoxia (medical)	1.33333333333
+191.0	cardiac output	1.25
+191.0	blood flow	2.4
+191.0	vasodilation	1.5
+191.0	respiratory system	1.66666666667
+191.0	blood pressure	2.875
+191.0	ischemia	1.25
+191.0	nitric oxide	0.666666666667
+191.0	oxygen therapy	1.6
+191.0	hemoglobin	2.4
+191.0	acidosis	1.33333333333
+191.0	carbon dioxide	1.75
+191.0	mechanical ventilation	1.16666666667
+191.0	vasoconstriction	1.85714285714
+191.0	hypoxemia	2.0
+191.0	hyperventilation	1.71428571429
+191.0	intracranial pressure	1.2
+191.0	gas exchange	1.71428571429
+191.0	oxygen	2.28571428571
+192.0	radio frequency	1.42857142857
+192.0	frequency	1.71428571429
+192.0	optics	2.0
+192.0	radiation	1.6
+192.0	diffraction	1.5
+192.0	photon	1.5
+192.0	fluorescence	1.5
+192.0	laser	2.14285714286
+192.0	spectrum analyzer	1.2
+192.0	refractive index	1.83333333333
+192.0	emission spectrum	1.83333333333
+192.0	electromagnetic spectrum	2.5
+192.0	modulation	1.8
+192.0	wavelength	1.71428571429
+192.0	infrared	0.75
+192.0	attenuation	1.0
+192.0	continuous wave	1.5
+192.0	electromagnetic radiation	1.75
+192.0	laser diode	2.16666666667
+193.0	molecule	1.6
+193.0	alkyl	1.4
+193.0	pyridine	0.75
+193.0	dimer (chemistry)	2.33333333333
+193.0	alkyne	1.1
+193.0	carbonyl	1.6
+193.0	thiol	0.833333333333
+193.0	divalent	1.875
+193.0	hydrolysis	1.44444444444
+193.0	protonation	1.0
+193.0	epoxide	1.25
+193.0	aryl	1.0
+193.0	functional group	1.0
+193.0	ketone	1.5
+193.0	amide	1.83333333333
+193.0	alkene	0.5
+193.0	disulfide	0.5
+193.0	aldehyde	1.8
+193.0	chemical reaction	0.25
+194.0	actin	1.42857142857
+194.0	muscle contraction	1.375
+194.0	action potential	1.55555555556
+194.0	depolarization	0.25
+194.0	skeletal muscle	1.28571428571
+194.0	potassium	1.2
+194.0	acetylcholine	1.5
+194.0	cytosol	1.5
+194.0	nitric oxide	1.4
+194.0	membrane potential	2.0
+194.0	adenosine triphosphate	2.0
+194.0	reactive oxygen species	0.857142857143
+194.0	neurotransmitter	1.5
+194.0	sodium channel	0.833333333333
+194.0	cell membrane	2.55555555556
+194.0	signal transduction	1.14285714286
+194.0	cell signaling	1.57142857143
+194.0	apoptosis	1.77777777778
+194.0	inflammation	0.6
+195.0	programmed cell death	1.33333333333
+195.0	carcinogenesis	1.57142857143
+195.0	apoptosis	2.0
+195.0	gene expression	1.0
+195.0	nf-κb	1.0
+195.0	oxidative stress	1.6
+195.0	cancer cell	2.14285714286
+195.0	cell death	2.0
+195.0	angiogenesis	1.16666666667
+195.0	cell cycle	1.42857142857
+195.0	necrosis	1.16666666667
+195.0	p53	0.333333333333
+195.0	cell growth	1.83333333333
+195.0	immune system	2.2
+195.0	reactive oxygen species	1.4
+195.0	telomerase	1.33333333333
+195.0	cellular differentiation	2.22222222222
+195.0	survivin	1.5
+195.0	t cell	2.0
+196.0	infidelity	1.16666666667
+196.0	sexual violence	2.0
+196.0	date rape	1.8
+196.0	child sexual abuse	0.571428571429
+196.0	domestic violence	2.0
+196.0	sexual orientation	1.0
+196.0	homosexuality	0.714285714286
+196.0	methamphetamine	1.33333333333
+196.0	pedophilia	0.75
+196.0	alcohol abuse	2.14285714286
+196.0	physical abuse	2.4
+196.0	alcoholism	1.5
+196.0	incest	1.42857142857
+196.0	sexual abuse	2.11111111111
+196.0	sexual intercourse	1.71428571429
+196.0	child abuse	1.42857142857
+196.0	addiction	1.9
+196.0	human trafficking	2.16666666667
+196.0	abuse	2.375
+197.0	sibling	1.5
+197.0	autism spectrum	1.125
+197.0	parenting	2.22222222222
+197.0	child development	2.5
+197.0	only child	1.42857142857
+197.0	youth	2.0
+197.0	toddler	1.75
+197.0	mother	1.625
+197.0	child	2.0
+197.0	foster care	1.4
+197.0	developmental psychology	1.71428571429
+197.0	autism	0.666666666667
+197.0	girl	1.2
+197.0	early childhood	2.2
+197.0	adolescence	2.55555555556
+197.0	attention deficit hyperactivity disorder	0.8
+197.0	puberty	2.25
+197.0	childhood	2.33333333333
+197.0	infant	2.0
+198.0	medical school	2.11111111111
+198.0	family medicine	1.6
+198.0	primary care	2.22222222222
+198.0	internal medicine	1.66666666667
+198.0	clinical psychology	1.5
+198.0	emergency medicine	1.875
+198.0	physician assistant	2.0
+198.0	health education	2.25
+198.0	telemedicine	1.6
+198.0	anesthesiologist	1.33333333333
+198.0	doctor of medicine	1.85714285714
+198.0	nursing	2.0
+198.0	medicine	2.16666666667
+198.0	neurology	1.28571428571
+198.0	pediatrics	1.16666666667
+198.0	health professional	2.57142857143
+198.0	hospital	2.28571428571
+198.0	medical education	2.28571428571
+198.0	general practitioner	1.85714285714
+199.0	cell signaling	1.0
+199.0	reactive oxygen species	1.0
+199.0	signal transduction	1.11111111111
+199.0	activation	0.9
+199.0	membrane potential	1.66666666667
+199.0	antioxidant	1.66666666667
+199.0	oxidative stress	1.8
+199.0	cytosol	1.4
+199.0	nanoparticle	1.14285714286
+199.0	neurotransmitter	1.42857142857
+199.0	cell growth	0.8
+199.0	nitric oxide	0.666666666667
+199.0	cell membrane	1.6
+199.0	active transport	1.57142857143
+199.0	intracellular	1.83333333333
+199.0	vascular permeability	1.42857142857
+199.0	metabolism	1.25
+199.0	lipid	1.25
+199.0	serotonin	1.0
+200.0	tracheal intubation	1.42857142857
+200.0	glued iol	1.14285714286
+200.0	radiofrequency ablation	1.0
+200.0	percutaneous	1.33333333333
+200.0	chest tube	1.0
+200.0	cannula	1.125
+200.0	central venous catheter	1.75
+200.0	brachytherapy	1.28571428571
+200.0	seldinger technique	1.5
+200.0	surgical incision	1.33333333333
+200.0	syringe	0.8
+200.0	ablation	0.666666666667
+200.0	ultrasound	1.42857142857
+200.0	intubation	1.71428571429
+200.0	laser ablation	0.8
+200.0	catheter	2.0
+200.0	forceps	0.625
+200.0	bio-mems	1.6
+200.0	electrosurgery	1.66666666667
+201.0	clinical trial	1.625
+201.0	immunotherapy	1.0
+201.0	targeted therapy	2.0
+201.0	personalized medicine	1.66666666667
+201.0	major depressive disorder	0.8
+201.0	chemotherapy	2.0
+201.0	drug resistance	1.42857142857
+201.0	addiction	1.71428571429
+201.0	clinical research	2.16666666667
+201.0	gene therapy	1.16666666667
+201.0	topiramate	1.22222222222
+201.0	drug discovery	1.83333333333
+201.0	antidepressant	1.6
+201.0	pharmacotherapy	1.83333333333
+201.0	pain management	1.5
+201.0	antipsychotic	1.71428571429
+201.0	biomarker (medicine)	1.71428571429
+201.0	angiogenesis	1.14285714286
+201.0	efficacy	1.0
+202.0	epinephrine	1.2
+202.0	neuropathic pain	0.444444444444
+202.0	serotonin	1.6
+202.0	anti-inflammatory	1.16666666667
+202.0	neurotoxin	1.42857142857
+202.0	efficacy	0.75
+202.0	toxicity	1.33333333333
+202.0	estrogen	1.0
+202.0	glucocorticoid	1.5
+202.0	adverse effect	1.44444444444
+202.0	opioid	0.75
+202.0	xylazine	0.857142857143
+202.0	dopamine	1.2
+202.0	anxiolytic	1.66666666667
+202.0	diazepam	1.14285714286
+202.0	acetylcysteine	1.0
+202.0	self-administration	0.666666666667
+202.0	bioavailability	1.66666666667
+202.0	insulin (medication)	0.8
+203.0	meta-analysis	1.5
+203.0	questionnaire	1.42857142857
+203.0	repeatability	1.28571428571
+203.0	construct validity	1.4
+203.0	self-assessment	1.6
+203.0	measurement	2.25
+203.0	test (assessment)	2.4
+203.0	experiment	1.14285714286
+203.0	predictive validity	2.0
+203.0	diagnostic test	1.6
+203.0	quantitative	1.42857142857
+203.0	likert scale	1.75
+203.0	program evaluation	2.0
+203.0	data collection	2.375
+203.0	evaluation	3.0
+203.0	reliability (research methods)	1.28571428571
+203.0	factor analysis	1.875
+203.0	psychometrics	1.125
+203.0	standardized test	2.33333333333
+204.0	cortisol	1.4
+204.0	platelet	2.28571428571
+204.0	insulin (medication)	0.75
+204.0	calcium	1.42857142857
+204.0	uric acid	1.14285714286
+204.0	potassium	0.571428571429
+204.0	bile acid	0.8
+204.0	blood sugar	1.85714285714
+204.0	red blood cell	1.16666666667
+204.0	insulin resistance	1.22222222222
+204.0	hemoglobin	1.75
+204.0	iodine	0.333333333333
+204.0	digestion	0.571428571429
+204.0	electrolyte	1.25
+204.0	urine	0.571428571429
+204.0	albumin	1.85714285714
+204.0	metabolism	1.5
+204.0	excretion	1.5
+204.0	hyperkalemia	0.714285714286
+205.0	pancreatitis	0.833333333333
+205.0	complication (medicine)	1.6
+205.0	myocardial infarction	2.25
+205.0	respiratory disease	1.42857142857
+205.0	pneumonia	0.714285714286
+205.0	trauma	1.71428571429
+205.0	renal failure	1.57142857143
+205.0	dementia	1.22222222222
+205.0	exacerbation	1.0
+205.0	cardiovascular disease	1.0
+205.0	heart failure	2.11111111111
+205.0	comorbidity	1.5
+205.0	acute (medicine)	1.57142857143
+205.0	cardiac arrest	1.88888888889
+205.0	cirrhosis	1.0
+205.0	thrombosis	1.75
+205.0	sepsis	1.57142857143
+205.0	coronary artery disease	1.66666666667
+205.0	intensive care unit	1.66666666667
+206.0	total fertility rate	1.2
+206.0	life expectancy	1.28571428571
+206.0	population growth	2.2
+206.0	risk factor	1.2
+206.0	mortality rate	2.28571428571
+206.0	incidence rate	2.5
+206.0	disease burden	1.25
+206.0	seroprevalence	1.42857142857
+206.0	survival rate	2.25
+206.0	cardiovascular disease	1.83333333333
+206.0	relative risk	1.14285714286
+206.0	population decline	2.5
+206.0	age of onset	1.4
+206.0	malnutrition	0.666666666667
+206.0	birth rate	1.5
+206.0	infant mortality	1.16666666667
+206.0	maternal death	0.833333333333
+206.0	child mortality	1.71428571429
+206.0	prevalence	1.75
+207.0	acetylcysteine	0.714285714286
+207.0	tapentadol	1.2
+207.0	estradiol	1.75
+207.0	pharmacokinetics	2.57142857143
+207.0	diazepam	0.857142857143
+207.0	fluoxetine	0.6
+207.0	linezolid	1.83333333333
+207.0	methadone	1.16666666667
+207.0	glucocorticoid	1.0
+207.0	benzodiazepine	0.833333333333
+207.0	insulin (medication)	1.2
+207.0	ciprofloxacin	0.5
+207.0	haloperidol	0.75
+207.0	clozapine	0.6
+207.0	metformin	1.125
+207.0	erythromycin	0.75
+207.0	bioavailability	1.6
+207.0	moclobemide	0.666666666667
+207.0	bupropion	1.16666666667
+208.0	endometrial cancer	1.42857142857
+208.0	neoplasm	1.16666666667
+208.0	asymptomatic	0.75
+208.0	melanoma	1.66666666667
+208.0	thyroid	1.55555555556
+208.0	differential diagnosis	1.85714285714
+208.0	biopsy	2.0
+208.0	sarcoidosis	1.0
+208.0	hepatocellular carcinoma	1.25
+208.0	adenoma	1.14285714286
+208.0	metastasis	1.0
+208.0	eosinophilia	1.28571428571
+208.0	multiple myeloma	1.4
+208.0	renal cell carcinoma	1.875
+208.0	systemic lupus erythematosus	1.375
+208.0	ovarian cancer	1.66666666667
+208.0	carcinoma	1.66666666667
+208.0	giant cell	1.4
+208.0	granuloma	1.57142857143
+209.0	database	1.6
+209.0	data collection	2.0
+209.0	data analysis	1.75
+209.0	methodology	1.88888888889
+209.0	3d printing	1.16666666667
+209.0	computing	1.14285714286
+209.0	product lifecycle	0.75
+209.0	automation	1.5
+209.0	usability	1.0
+209.0	simulation software	1.0
+209.0	project management	1.83333333333
+209.0	workflow	1.33333333333
+209.0	system	1.5
+209.0	software	2.0
+209.0	geographic information system	1.375
+209.0	smart grid	1.0
+209.0	simulation	0.0
+209.0	computer	1.5
+209.0	information	2.4
+210.0	tolerability	1.0
+210.0	electroconvulsive therapy	1.5
+210.0	major depressive disorder	1.71428571429
+210.0	therapy	2.66666666667
+210.0	efficacy	1.28571428571
+210.0	adjuvant therapy	2.16666666667
+210.0	hormone replacement therapy (menopause)	1.75
+210.0	bevacizumab	1.0
+210.0	chemotherapy	2.14285714286
+210.0	standard treatment	1.4
+210.0	antipsychotic	1.42857142857
+210.0	radiation therapy	1.0
+210.0	hormone therapy	2.0
+210.0	antidepressant	1.16666666667
+210.0	placebo	1.16666666667
+210.0	pharmacotherapy	1.0
+210.0	pain management	1.71428571429
+210.0	clinical trial	2.33333333333
+210.0	cognitive behavioral therapy	2.4
+211.0	sol-gel	1.375
+211.0	water content	1.66666666667
+211.0	ammonia	1.57142857143
+211.0	porosity	1.88888888889
+211.0	liquid	1.5
+211.0	thermal expansion	1.875
+211.0	calcium carbonate	1.0
+211.0	silicon dioxide	0.9
+211.0	crystallization	1.71428571429
+211.0	surface energy	1.85714285714
+211.0	properties of water	1.4
+211.0	hydrogen	0.666666666667
+211.0	urea	0.0
+211.0	sodium chloride	1.4
+211.0	water vapor	1.0
+211.0	adsorption	2.2
+211.0	evaporation	2.0
+211.0	nanoparticle	1.42857142857
+211.0	solubility	1.57142857143
+212.0	liquid	0.25
+212.0	nanowire	1.16666666667
+212.0	bilayer	1.33333333333
+212.0	monolayer	1.25
+212.0	surface energy	0.666666666667
+212.0	cell membrane	1.28571428571
+212.0	nanoparticle	1.66666666667
+212.0	nanomaterials	1.42857142857
+212.0	plasma (physics)	1.0
+212.0	carbon nanotube	1.71428571429
+212.0	polymer	2.5
+212.0	thin film	1.5
+212.0	adsorption	1.57142857143
+212.0	lipid bilayer	1.0
+212.0	solubility	1.16666666667
+212.0	nanocomposite	2.5
+212.0	graphene	1.0
+212.0	quantum dot	1.16666666667
+212.0	sol-gel	1.6
+213.0	variance	1.2
+213.0	quantitative	1.75
+213.0	power law	1.33333333333
+213.0	regression analysis	1.42857142857
+213.0	meta-analysis	1.66666666667
+213.0	autocorrelation	1.75
+213.0	sensitivity analysis	1.5
+213.0	linear regression	1.2
+213.0	factor analysis	2.0
+213.0	data analysis	3.0
+213.0	mathematical model	1.57142857143
+213.0	parameter	1.22222222222
+213.0	confounding	0.428571428571
+213.0	principal component analysis	1.22222222222
+213.0	biomarker	1.57142857143
+213.0	time series	0.75
+213.0	causality	1.16666666667
+213.0	standard deviation	1.66666666667
+213.0	logistic regression	1.25
+214.0	serology	1.0
+214.0	immunohistochemistry	1.55555555556
+214.0	blood test	2.0
+214.0	genotyping	1.33333333333
+214.0	immunoassay	0.0
+214.0	sensitivity and specificity	0.5
+214.0	ultrasound	0.25
+214.0	antibody	1.16666666667
+214.0	albumin	1.5
+214.0	urinalysis	1.5
+214.0	western blot	0.428571428571
+214.0	alkaline phosphatase	0.857142857143
+214.0	real-time polymerase chain reaction	0.857142857143
+214.0	drug test	1.4
+214.0	biomarker	1.2
+214.0	assay	1.0
+214.0	genetic testing	1.33333333333
+214.0	diagnostic test	2.0
+214.0	polymerase chain reaction	1.5
+215.0	visual memory	1.42857142857
+215.0	implicit memory	1.33333333333
+215.0	eye movement	1.83333333333
+215.0	implicit learning	1.2
+215.0	working memory	1.44444444444
+215.0	arousal	1.0
+215.0	visual system	0.8
+215.0	recognition memory	1.14285714286
+215.0	visual perception	2.125
+215.0	perception	1.28571428571
+215.0	change blindness	0.875
+215.0	explicit memory	1.22222222222
+215.0	attention	1.0
+215.0	spatial memory	1.16666666667
+215.0	visual search	1.6
+215.0	negative priming	1.2
+215.0	embodied cognition	1.66666666667
+215.0	stimulation	1.4
+215.0	habituation	1.44444444444
+216.0	differential diagnosis	1.8
+216.0	clinical trial	2.75
+216.0	diagnosis	1.5
+216.0	multiple myeloma	0.857142857143
+216.0	efficacy	1.0
+216.0	medical diagnosis	1.71428571429
+216.0	biomarker	1.66666666667
+216.0	c-reactive protein	1.42857142857
+216.0	sepsis	1.5
+216.0	diagnostic test	1.125
+216.0	adjuvant therapy	1.33333333333
+216.0	radiation therapy	1.77777777778
+216.0	ovarian cancer	1.5
+216.0	comorbidity	1.0
+216.0	chemotherapy	1.66666666667
+216.0	cancer	2.0
+216.0	hepatocellular carcinoma	1.0
+216.0	pathogenesis	1.33333333333
+216.0	prognosis	2.0
+217.0	antibiotics	1.75
+217.0	angiogenesis	1.0
+217.0	pain management	1.66666666667
+217.0	psoriasis	1.66666666667
+217.0	metronidazole	1.42857142857
+217.0	anti-inflammatory	1.8
+217.0	hyaluronic acid	1.2
+217.0	extravasation (intravenous)	1.66666666667
+217.0	lidocaine	1.0
+217.0	inflammation	0.857142857143
+217.0	wound healing	1.88888888889
+217.0	tacrolimus	1.0
+217.0	dermatitis	1.77777777778
+217.0	acetylcysteine	1.28571428571
+217.0	analgesic	1.125
+217.0	ibuprofen	1.2
+217.0	chemotherapy	1.14285714286
+217.0	mucositis	1.125
+217.0	aspirin	1.42857142857
+218.0	brain	2.2
+218.0	cerebral cortex	1.5
+218.0	limbic system	1.85714285714
+218.0	working memory	2.16666666667
+218.0	semantic memory	2.0
+218.0	prefrontal cortex	1.28571428571
+218.0	executive functions	0.333333333333
+218.0	nervous system	0.25
+218.0	spatial memory	1.5
+218.0	explicit memory	1.8
+218.0	visual memory	2.0
+218.0	visual cortex	1.83333333333
+218.0	human brain	1.4
+218.0	episodic memory	1.625
+218.0	cognition	2.5
+218.0	implicit memory	1.875
+218.0	neuroplasticity	1.33333333333
+218.0	hippocampus	1.77777777778
+218.0	recognition memory	2.0
+219.0	hyperlipidemia	1.77777777778
+219.0	hypertension	1.71428571429
+219.0	blood sugar	1.16666666667
+219.0	glucocorticoid	1.14285714286
+219.0	insulin (medication)	1.85714285714
+219.0	blood pressure	2.0
+219.0	anemia	0.888888888889
+219.0	biomarker	1.6
+219.0	hyperglycemia	1.85714285714
+219.0	c-reactive protein	1.0
+219.0	prolactin	1.44444444444
+219.0	bioavailability	1.0
+219.0	cortisol	1.66666666667
+219.0	cholesterol	1.33333333333
+219.0	hypothyroidism	1.8
+219.0	hypoglycemia	1.57142857143
+219.0	biomarker (medicine)	1.8
+219.0	biomarker (cell)	1.0
+219.0	insulin resistance	1.4
+220.0	physical strength	1.28571428571
+220.0	heart rate	1.55555555556
+220.0	stimulation	1.28571428571
+220.0	body composition	1.57142857143
+220.0	physical fitness	1.71428571429
+220.0	endurance training	2.25
+220.0	effectiveness	1.5
+220.0	muscle tone	2.5
+220.0	aerobic exercise	1.85714285714
+220.0	weakness	1.28571428571
+220.0	range of motion	1.33333333333
+220.0	muscle	1.83333333333
+220.0	muscle fatigue	0.666666666667
+220.0	muscle atrophy	0.714285714286
+220.0	skeletal muscle	1.75
+220.0	weight training	1.85714285714
+220.0	agility	2.5
+220.0	strength training	3.0
+220.0	physical exercise	2.42857142857
+221.0	methodology	2.0
+221.0	cluster analysis	1.0
+221.0	data analysis	2.14285714286
+221.0	time series	1.66666666667
+221.0	logistic regression	1.375
+221.0	system	0.833333333333
+221.0	dynamic programming	1.75
+221.0	image segmentation	1.0
+221.0	mutual information	1.375
+221.0	computation	2.16666666667
+221.0	principal component analysis	2.0
+221.0	sensitivity analysis	1.0
+221.0	heuristic	1.33333333333
+221.0	finite element method	2.0
+221.0	machine learning	1.66666666667
+221.0	statistical inference	1.0
+221.0	logarithm	1.375
+221.0	mathematical model	1.0
+221.0	quantitative	1.83333333333
+222.0	potassium	1.25
+222.0	chemical reaction	1.88888888889
+222.0	ethanol	0.333333333333
+222.0	water content	1.0
+222.0	ph	1.0
+222.0	solubility	1.33333333333
+222.0	urea	1.5
+222.0	acetic acid	1.5
+222.0	bioavailability	1.16666666667
+222.0	ammonia	0.666666666667
+222.0	sulfur dioxide	1.33333333333
+222.0	carbon dioxide	0.5
+222.0	sodium hydroxide	1.0
+222.0	activated carbon	1.0
+222.0	alkalinity	1.5
+222.0	evaporation	1.57142857143
+222.0	hydrolysis	1.5
+222.0	nitrogen	1.1
+222.0	sodium chloride	0.5
+223.0	larva	2.14285714286
+223.0	anopheles	0.8
+223.0	helicoverpa zea	1.0
+223.0	fungus	1.0
+223.0	hymenoptera	1.55555555556
+223.0	arthropod	1.25
+223.0	parasitoid	2.25
+223.0	parthenogenesis	1.55555555556
+223.0	nematode	1.71428571429
+223.0	parasitism	1.25
+223.0	thrips	1.0
+223.0	lepidoptera	0.5
+223.0	brood parasite	1.33333333333
+223.0	aphid	1.5
+223.0	sexual reproduction	2.5
+223.0	sperm competition	2.33333333333
+223.0	insect	2.4
+223.0	sexual dimorphism	1.28571428571
+223.0	asexual reproduction	1.71428571429
+224.0	adolescence	1.8
+224.0	social isolation	1.71428571429
+224.0	clinical psychology	2.0
+224.0	sociology of the family	1.16666666667
+224.0	social competence	1.5
+224.0	developmental psychology	1.57142857143
+224.0	child development	2.0
+224.0	prosocial behavior	2.5
+224.0	empathy	1.5
+224.0	psychology	2.5
+224.0	social support	2.0
+224.0	well-being	1.57142857143
+224.0	psychological research	2.0
+224.0	parenting	1.75
+224.0	social behavior	2.25
+224.0	sociology	2.42857142857
+224.0	socialization	2.14285714286
+224.0	self-esteem	1.0
+224.0	education	2.5
+225.0	system	1.5
+225.0	implementation	1.57142857143
+225.0	responsiveness	1.0
+225.0	information flow	1.5
+225.0	gene regulatory network	1.33333333333
+225.0	information	1.75
+225.0	structure	1.14285714286
+225.0	dynamics	1.2
+225.0	principle	0.833333333333
+225.0	complexity	1.71428571429
+225.0	communication	1.0
+225.0	complex system	2.2
+225.0	self-organization	1.33333333333
+225.0	cell signaling	1.14285714286
+225.0	activation	1.0
+225.0	interaction	1.16666666667
+225.0	emergence	0.875
+225.0	the mechanism	1.66666666667
+225.0	concept	1.0
+226.0	mathematical model	2.0
+226.0	standard deviation	0.8
+226.0	stochastic	1.5
+226.0	quantitative	1.0
+226.0	data analysis	1.875
+226.0	variance	1.0
+226.0	computer simulation	2.25
+226.0	parameter	2.14285714286
+226.0	normal distribution	1.125
+226.0	logistic regression	0.714285714286
+226.0	linear regression	1.4
+226.0	statistical model	1.57142857143
+226.0	logarithm	1.44444444444
+226.0	regression analysis	2.14285714286
+226.0	time series	1.22222222222
+226.0	estimation	2.0
+226.0	sensitivity analysis	1.42857142857
+226.0	approximation	1.28571428571
+226.0	power law	0.888888888889
+227.0	ozone	2.0
+227.0	leachate	1.875
+227.0	water pollution	1.71428571429
+227.0	sulfur dioxide	1.375
+227.0	soil	2.2
+227.0	nitrogen	1.2
+227.0	pollution	1.55555555556
+227.0	water vapor	1.71428571429
+227.0	turbidity	1.0
+227.0	activated carbon	0.8
+227.0	particulates	1.2
+227.0	eutrophication	1.5
+227.0	water content	1.5
+227.0	groundwater	1.625
+227.0	water quality	1.71428571429
+227.0	aerosol	1.0
+227.0	ammonia	0.666666666667
+227.0	carbon dioxide	1.0
+227.0	leaching	1.28571428571
